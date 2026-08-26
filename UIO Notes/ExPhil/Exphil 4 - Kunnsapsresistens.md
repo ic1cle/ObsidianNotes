@@ -120,4 +120,29 @@
 	Hva er evidens som taler imot en overbevisning?
 		Kullkastere! (defeaters)
 			undergraver dine grunner for en overbevisning / evidens
-			
+**tre typer evidensresistens:**
+	1. Vi er ikke villige til å teste våre overbevisninger
+	2. Vi unngår å ta til oss relevant informasjon (milig kullkastere)
+	3. Sekv når vi står ovenfor relevant onformasjon, fortsetter vi å tro det vi ikke har god grunn til å tro
+	- minner om kant og latskap - [exphil 1]
+	Kunnskap har både indre og ytre fiender
+		Indre fiender
+			Psykologiske mekanismer -> hindrer oss i å ta til oss kunnskap
+				Kognitive skjevheter - Cognitive biases
+					en måte hjernen vår tolker verden - som ikke stemmer overrens med verden
+					bekreftelsseskjevhet (confirmationbias)
+					Meningsfastholdenhet 
+					Dunning-kruger-effekten ??
+						folk som har minst kunnskap, ser på seg selv som mest kunnskaps
+						mer kunnskap -> selvtillit faller
+		Ytre fiender
+			Kunnskapsresistens gjennomslag grunnet ny teknologi
+				kildekritikk?
+	Hvordan motarbeide kunnskapsresistens
+		1. Kritisk tenkning
+			Forskjell mellom holdbarhet og gyldighet
+		2. Kunnskap om empiriske forhold
+			Gå ut i verden og observer relevante forhold - forskning
+			tro på eksperter (ikke ukritisk)
+		Debatter bør foregå på skikkelig vis - sakelig og redelige
+		
