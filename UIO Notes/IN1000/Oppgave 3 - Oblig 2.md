@@ -1,3 +1,5 @@
+Se også: [[Presis forståelse 3 - IN1000]] (begreper brukt under) · [[Oppgave 4 - Oblig 2]] (analyse av dette programmet) · [[Oversikt|Oversikt]]
+
 ```python
 1 def print_prosa(): # legger en her, fordi den starter med å definere funksjonen
 	4,9 print("Melding til alle gaardeiere:") # blir kalt i "linje" 3 og 8

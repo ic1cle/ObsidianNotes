@@ -1,0 +1,16 @@
+/* Indent wrapped (soft-wrapped) lines so the continuation
+   doesn't fall back to the left margin under tab-indented text.
+   This is a fixed offset applied to every line, not a per-line
+   match to each line's actual tab depth. Tune the em value to taste. */
+
+/* Editor: Live Preview / Source mode */
+.cm-line {
+  padding-left: 2em;
+  text-indent: -2em;
+}
+
+/* Reading view */
+.markdown-preview-view p {
+  padding-left: 2em;
+  text-indent: -2em;
+}

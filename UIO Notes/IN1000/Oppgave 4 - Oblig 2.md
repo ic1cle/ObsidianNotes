@@ -1,2 +1,4 @@
+Se også: [[Oppgave 3 - Oblig 2]] (kodeeksempelet denne analysen gjelder) · [[Presis forståelse 3 - IN1000]] · [[Oversikt|Oversikt]]
+
 1, Programmet vil kjøre, alt er greit den konverter inputen til et heltall og if statementen er grei, python aksepterer også mellomrom mellom print og parantesene, selv om dette er uvanlig
 2, om brukeren ikke skriver inn et heltall så møter vi på et problem under konverteringen

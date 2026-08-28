@@ -1,4 +1,6 @@
-**Hva er vitenskap? Hva er vitenskapelig?**
+# Hva er vitenskap? Hva er vitenskapelig?
+
+Se også: [[Oversikt|Oversikt]] · neste: [[Exphil 4 - Kunnsapsresistens]]
 *Hva betyr pseudovitenskap?*
 	Falsk
 
@@ -20,7 +22,7 @@ pseudovit prakss:
 	- konspiratorisk argumentasjon
 	- bruk av villledende språk
 
-**Men hva er da Vitenskap**
+## Men hva er da Vitenskap
 *omtrentlig def: "Vitenskap er systematisk, metodisk og kritisk undersøkelse, studium eller forskning." - SNL*
 *"Vitenskapen stiller krav om tilfredsstillende ecidens eller belegg for, eller begrunnelse av, de påstandene som fremstiller.*
 
@@ -51,7 +53,7 @@ Kriterium -> demarkasjonskriterium
 		probablisme
 		falsifisering 
 
-**Fakta og teorier:**
+## Fakta og teorier
 	Lakos siterer Hume, etterlyste "eksperimentell" argumentasjon
 		Er det tilstrekkelig for vitenskap?
 	På 1600-tallet -> Hekser
@@ -66,13 +68,15 @@ Kriterium -> demarkasjonskriterium
 			Descartes' kriterium *"hinsides all tvil"* er for strengt og "utopsik"
 			Empirisk vitenskap kan ikke være like sikker som matematikk eller like nødvendig som deduktiv argumentasjon
 
-**Probabilisme**
+## Probabilisme
+
+Se også: [[Exphil 4 - Kunnsapsresistens#Infallibilisme og fallibilisme]] — fallibilisme senker begrunnelseskravet på samme måte som probabilisme senker sannsynlighetskravet
 	Løse induksjonsproblemet ved å senke standard
 		en teori krever høy sannsynlighet, ikke sikkerhet -> Vitenskap
 	Poppers innvending
 		*"Samtlige teoriers matematiske sannsynlighet, vitenskapelige som pseudovitenskapelige, er lik null"(S67)*
 		*Insert docter house huh*
-**Karl Popper**
+## Karl Popper
 	Østeriske-britisk 1902-1994
 	argument mot brobabilisme
 		sannsynlighet = observasjoner / mulig evidens
@@ -83,7 +87,7 @@ Kriterium -> demarkasjonskriterium
 				En Teori er falsifiserbar dersom det er mulig å sette opp en test eller eksperiment som kan vise at teorien er feil
 					Ikke det samme som forfalsking
 					sier noe om hvorvidt en teori kan motbevises
-				**Falsifiseringsprinsippet**
+### Falsifiseringsprinsippet
 					***En teori er vitenskapelig kun hvis den er falsifiserbar***
 					Eksempel på falsifiserbarhetstest
 						Einsteins relativitetseori
@@ -117,13 +121,13 @@ Kriterium -> demarkasjonskriterium
 							- Bruke det teoretiske rammeverket for å forklare at de ikke faktisk strider mot teorien
 							- Endre deler av det teoretiske rammeverket får å tilpasse dem
 
-***Thomas Kuhn:***
+## Thomas Kuhn
 	amerikansk filosof 1922-1996
 	påvirket [[#Karl Popper]]
 	Vitenskap består av paradigmer som er det teoretiske rammeverket vitenskapfolk bruker for å forstå verden
 		vitenskapelig fremskritt handler i stor grad om vitenskapelige revolusjoner hvor et paradignme blir forkaster til fordel
 	Men vitenskapelige revolusjon sjelden, jobber innenfor paradigme (Normalvitenskap)
-	**Vitenskapelig paradigme:**
+### Vitenskapelig paradigme
 		Et paradigme er et rammeverk for å forstå verden - aksepterte teorier, metoder, lover,, antagelser og teknologier som forskere jobber innenfor og utenfor
 		*Vitenskapelig utvikling*
 			Pre-paradigmatisk fase
@@ -145,11 +149,11 @@ Kuhn mot popper
 		Kuuhn sitt syn gjør at endringer skjer som irrasjonell overtakelse
 			Ingen gode argument for å endre syn????
 		Rasjonelle overveielser står sentralt i vitenskapelig endring???
-***Lakatos***
+## Lakatos
 	Kritiserer popper og kuhn, men bygger videre på dem
 		enig med popper i at vi trenger en forståelse av t-endring som er begrunnet
 		Enig med kuhn i at vi mp ta hlyde for histoerie og faktisk praksis
-	***Forskningsprogrammer***
+### Forskningsprogrammer
 		Komplekse rammeverk som rettleder vitenskapelg spørsmål, eksperimenter og tolkning av data
 		Historiske enheter som eksisterer i en periode endrer seg over tid, løser problemer og takler anomalier
 			- Newtons mekanikk
@@ -168,7 +172,7 @@ Kuhn mot popper
 				betyr ikke at de er dårlige eller uvitenskapelig
 			hvordan man takler anomalie
 
-Progressive og degenererende forskningsprogrammer
+### Progressive og degenererende forskningsprogrammer
 progressive:
 	- Gjør nye overraskende prediksjoner
 	- øker forklaringsevne
@@ -183,3 +187,6 @@ Lakatos sitt demarkasjonskriterium
 	Et forsknings program er vitenskapelig dersom det er progressivt og pseudovitenskap om degenererende
 Endring i vitenskappen
 	et degenererende vil dø langsomt etter flere forskere skifter til progressive
+
+---
+**Se også:** [[Exphil 4 - Kunnsapsresistens]] · [[Oversikt|Oversikt]]

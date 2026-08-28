@@ -1,0 +1,9 @@
+{
+  "id": "wrap-indent-hanging",
+  "name": "Wrap Indent (Hanging)",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Indents wrapped continuation of a line to match that same line's own leading tab/space indentation, instead of falling back to the left margin.",
+  "author": "local",
+  "isDesktopOnly": false
+}

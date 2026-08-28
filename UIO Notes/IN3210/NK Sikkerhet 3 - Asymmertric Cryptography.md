@@ -1,4 +1,10 @@
-**[Symmetric Encryption]**
+# NK Sikkerhet 3 - Asymmetric Cryptography
+
+Se også: [[Oversikt|Oversikt]] · forrige: [[NK Sikkerhet 2 - Symmetric Encryption - IN3210]]
+
+## Symmetric Encryption (recap)
+
+Fullstendige notater: [[NK Sikkerhet 2 - Symmetric Encryption - IN3210]]
 	same key, key exchange...
 		Traditional key exchange, was a book with a bunch of keys, given in person
 			Diffie hellman key ex (1976)
@@ -12,11 +18,11 @@
 	Problem of DH key exchange
 		interactive protocol
 		both parties must be "online" to start encrypt com
-**Asymmetric Encryption**
+## Asymmetric Encryption
 	one key for enc, one key for decryp
 	RSA (1978) (recipient generates key)
 	Confidentiality not required -> passive attacker can read the public key no problem
-**Hash Functions**
+## Hash Functions
 	checking fingerprint sim?
 	hash collision
 		two hash values stemming from different messages
@@ -29,6 +35,9 @@
 		Message-Digest_algorithm 128bit digest
 	Sha - 123
 		Internal structure SHA-1
+## Digital Signature
 Remember message authentication code - MAC
-Digital signature
 	with rsa the sender creates the keypair
+
+---
+**Se også:** [[NK Sikkerhet 2 - Symmetric Encryption - IN3210]] · [[Oversikt|Oversikt]]

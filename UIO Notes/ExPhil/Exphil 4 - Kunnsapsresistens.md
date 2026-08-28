@@ -2,9 +2,11 @@
 * Hva er kunnskap?
 * Wikforss' fallibilisme
 * Årsaken til kunnskapsresistens
-**Kunnskapsresistens:**
+
+Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 3 - Hva er VItenskap?]]
+## Kunnskapsresistens
 	elementene som forårsaker kunnskapsresistens -> ikke nytt
-	pseudovitenskapelig praksis? [Exphil 3]
+	pseudovitenskapelig praksis? [[Exphil 3 - Hva er VItenskap?]]
 		Galileo vs kirka
 		Politisk makt og ideologgi
 			Tromfim Lysenko mot genetikk
@@ -21,12 +23,12 @@
 	Hvorfor er kskapres. viktig
 		utfordrer demokratiet og samfunnet
 			om vi ikke tar til oss relevant info - hvordan kan vi stoles på til å stemme....
-				dersom velgerne er kunnskapsresistente -> dårlig grunnlag for demokratiet.... [exphil 5]
+				dersom velgerne er kunnskapsresistente -> dårlig grunnlag for demokratiet.... [[Exphil 5]]
 			Kunnskapsresistens ufordrer vedien av utdanning
 				læringsinstu. avhengig av at studenter er åpne f/ læring
 			Hvis vi kan forstå grunnlaget til kunnskaps.res. kan vi gjøre noe med det
 				For å forstå grunnlaget må vi forstå kunnskap
-	**Hva er kunnskap**
+## Hva er kunnskap
 		Epistemologi - læren om kunnskap
 		Hva er kunnskap - bredere enn hva er vitenskap
 			mye vi vet som ikke er vitenskapelig - kunnskap må dekke både vitenskap og hverdagskunnskap
@@ -95,7 +97,7 @@
 						undergraver tvil evidens?
 					Infallibilisme og fallibilisme
 						uenig om løsning
-**Infallibilisme og fallibilisme**
+## Infallibilisme og fallibilisme
 	Infallibilisme hevder at kunnskap krever ufeilbarlig begrunnelse
 		garanterer sannheten
 	Fallibilister støtter et svakere begrunnelseskrav
@@ -112,7 +114,7 @@
 			ellers slutte seg til skeptisisme - bam bam baaaammmm
 	Fallibilisme fra latin fallibilis = feilbar
 		kunnskap krever kun at det er tilstrekkelig sannsynelig at oppfatn. er sann
-		popppers [Exphil 3] - sannsynelighet = 0
+		popppers [[Exphil 3 - Hva er VItenskap?#Karl Popper]] - sannsynelighet = 0
 	Bruke tvil som et motargument
 		det er ikke en innvending mot overbevisning å påpeke at noen kanskje har feil?
 		tvil om evidens og vitenskapelig debatt kan være bra, men kan også misbrukes
@@ -120,11 +122,11 @@
 	Hva er evidens som taler imot en overbevisning?
 		Kullkastere! (defeaters)
 			undergraver dine grunner for en overbevisning / evidens
-**tre typer evidensresistens:**
+## Tre typer evidensresistens
 	1. Vi er ikke villige til å teste våre overbevisninger
 	2. Vi unngår å ta til oss relevant informasjon (milig kullkastere)
-	3. Sekv når vi står ovenfor relevant onformasjon, fortsetter vi å tro det vi ikke har god grunn til å tro
-	- minner om kant og latskap - [exphil 1]
+	3. Sekv når vi står ovenfor relevant onformasjon, fortsetter vi å tro det vi ikke har god grunn til å *tro*
+	- minner om kant og latskap - [[Exphil 1]]
 	Kunnskap har både indre og ytre fiender
 		Indre fiender
 			Psykologiske mekanismer -> hindrer oss i å ta til oss kunnskap
@@ -145,4 +147,6 @@
 			Gå ut i verden og observer relevante forhold - forskning
 			tro på eksperter (ikke ukritisk)
 		Debatter bør foregå på skikkelig vis - sakelig og redelige
-		
+
+---
+**Se også:** [[Exphil 3 - Hva er VItenskap?]] · [[Oversikt|Oversikt]]
