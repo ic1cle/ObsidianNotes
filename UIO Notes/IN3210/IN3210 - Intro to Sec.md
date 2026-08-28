@@ -18,6 +18,8 @@ tags: [security, lecture-notes]
 
 *(regarding what security is protecting)*
 
+> Se også: [[IN1020 - Innfri Sikkerhetsmål#KIT|KIT i IN1020]] (samme triade: konfidensialitet/integritet/tilgjengelighet)
+
 ### Further goals
 - Authenticity
 - Non-repudiation
@@ -52,6 +54,8 @@ Targets: Service, Communication, Data
 **Adversary**: wiretap attacks
 
 ## Networking basics
+> Bygger på [[IN1020 - Intro til Datakommunikasjon]] (pakkenettverk, topologier, OSI/TCP-IP)
+
 - **Broadcast domain**
 - **ARP** (Address Resolution Protocol): maps MAC to IP
 

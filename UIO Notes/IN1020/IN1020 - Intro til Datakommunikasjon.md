@@ -35,5 +35,21 @@
 	- Alle i kan potensielt høre
 	- kan bli problemer om flere noder sender samtidlig
 	- feildeteksjon er viktig
-	- sending bør koordineres
-	- 
+	- sending bør koordinere
+
+# Utfordringer i datanettverk - Protokoller og lagdeling
+- Et sett med regler for hvordan kommunikasjon snakker
+- *Utfordringer:*
+	- Hvilket program skal kontaktes?
+	- Hvilken rute skam man bruke?
+	- Hvem og hva skal ha data?
+	- Hvordan finne veien tilbake?
+	- Felles språk?
+	- Håndtere problemer
+	- personvern og sikkerhet
+	- unngå forsinkelser - tilgjengelighet ;)
+- **Lagdelingsmodeller - OSI og TCP/IP**
+	- OSI-modellen
+	- TCP/IP-modellen
+
+> Bygges videre på i [[IN3210 - Intro to Sec#Networking basics|Networking basics (IN3210)]] — broadcast domain, ARP, ARP-spoofing

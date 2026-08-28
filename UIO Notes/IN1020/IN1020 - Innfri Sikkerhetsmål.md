@@ -16,7 +16,7 @@ Andre mål:
 - Autentisitet
 - Sporbarhet
 
-> Se også: Aksiomer i IN3210
+> Se også: [[IN3210 - Intro to Sec#Axioms of CS (Computer Security)|Aksiomer i IN3210]]
 
 ```
         K
