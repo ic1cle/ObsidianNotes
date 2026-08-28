@@ -95,18 +95,28 @@
             "id": "0b4bb372a8b6de75",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "ca8d8e66bbc7150e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "ExPhil/Exphil 4 - Kunnsapsresistens.md",
+                "file": "IN1020/IN1020 - Intro til Datakommunikasjon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exphil 4 - Kunnsapsresistens"
+              "title": "IN1020 - Intro til Datakommunikasjon"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -284,13 +294,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b4bb372a8b6de75",
+  "active": "ca8d8e66bbc7150e",
   "lastOpenFiles": [
-    "ExPhil/Exphil 3 - Hva er VItenskap?.md",
+    "IN1020/IN1020 - Intro til Datakommunikasjon.md",
+    "IN3210/NK Sikkerhet 3 - Asymmertric Cryptography.md",
+    "IN1020",
     "ExPhil/Exphil 4 - Kunnsapsresistens.md",
+    "ExPhil/Exphil 3 - Hva er VItenskap?.md",
     "IN1000/Oppgave 3 - Oblig 2.md",
     "IN3210/NK Sikkerhet 2 - Symmetric Encryption - IN3210.md",
-    "IN3210/NK Sikkerhet 3 - Asymmertric Cryptography.md",
     "IN1000/Oppgave 4 - Oblig 2.md",
     "ExPhil/sedR9mDEv",
     "Oversikt.md",
@@ -304,7 +316,6 @@
     "IN3210/NK Sikkerhet 3 - Asymmertric Cryptography.md.tmp.62850.71e91685da84",
     "IN3210/NK Sikkerhet 3 - Asymmertric Cryptography.md.tmp.62850.1849b0e52817",
     "IN3210/NK Sikkerhet 3 - Asymmertric Cryptography.md.tmp.62850.1662a5f67a82",
-    "IN3210/NK Sikkerhet 3 - Asymmertric Cryptography.md.tmp.62850.bd2361de5e9d",
     "NK Sikkerhet 3 - Asymmertric Cryptography.md",
     "IN1000/Presis forståelse 3 - IN1000.md"
   ]
