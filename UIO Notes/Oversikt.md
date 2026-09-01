@@ -3,6 +3,7 @@
 Indeksnotat (MOC) for pensumnotatene. Se undermappene for hvert emne.
 
 ## ExPhil
+- [[Exphil Seminar 2]] — seminarnotater: kunnskap som begrunnet sann oppfatning, Lakatos om vitenskap/pseudovitenskap
 - [[Exphil 3 - Hva er VItenskap?]] — vitenskap vs. pseudovitenskap: Popper (falsifiserbarhet), Kuhn (paradigmer), Lakatos (forskningsprogrammer)
 - [[Exphil 4 - Kunnsapsresistens]] — kunnskap (justified true belief), fallibilisme, kunnskapsresistens
 

@@ -1,6 +1,6 @@
 # Hva er vitenskap? Hva er vitenskapelig?
 
-Se også: [[Oversikt|Oversikt]] · neste: [[Exphil 4 - Kunnsapsresistens]]
+Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil Seminar 2]] · neste: [[Exphil 4 - Kunnsapsresistens]]
 *Hva betyr pseudovitenskap?*
 	Falsk
 
@@ -150,6 +150,7 @@ Kuhn mot popper
 			Ingen gode argument for å endre syn????
 		Rasjonelle overveielser står sentralt i vitenskapelig endring???
 ## Lakatos
+	Se også: [[Exphil Seminar 2]] — seminarnotater om Lakatos
 	Kritiserer popper og kuhn, men bygger videre på dem
 		enig med popper i at vi trenger en forståelse av t-endring som er begrunnet
 		Enig med kuhn i at vi mp ta hlyde for histoerie og faktisk praksis
