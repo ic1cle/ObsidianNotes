@@ -1,4 +1,5 @@
 [
   "obsidian-git",
-  "wrap-indent-hanging"
+  "wrap-indent-hanging",
+  "vim-toggle"
 ]

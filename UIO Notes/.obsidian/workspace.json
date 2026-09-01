@@ -135,16 +135,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ExPhil/Exphil Seminar 2.md",
+                "file": "IN3210/NK Sikkerhet 3 - Asymmertric Cryptography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exphil Seminar 2"
+              "title": "NK Sikkerhet 3 - Asymmertric Cryptography"
+            }
+          },
+          {
+            "id": "2ed4e07f69406730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IN3210/NK Sikkerhet 4 - Key Management and Entity Authentication - Kerberos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NK Sikkerhet 4 - Key Management and Entity Authentication - Kerberos"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -319,15 +333,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "175291d8664c85a9",
+  "active": "2ed4e07f69406730",
   "lastOpenFiles": [
+    "IN3210/NK Sikkerhet 3 - Asymmertric Cryptography.md",
+    "IN3210/NK Sikkerhet 4 - Key Management and Entity Authentication - Kerberos.md",
+    "IN3210/NK Sikkerhet 2 - Symmetric Encryption - IN3210.md",
+    "IN3210/IN3210 - Intro to Sec.md",
+    "ExPhil/Exphil Seminar 2.md",
     "IN3210/Pasted image 20260825142928.png",
     "IN5290/IN5290 - Intro to Ethical Hacking, Info Gathering.md",
     "Oversikt.md",
-    "ExPhil/Exphil Seminar 2.md",
     "Oversikt.md.tmp.64917.0c05df5a5640",
     "ExPhil/Exphil 3 - Hva er VItenskap?.md.tmp.64917.f5a4c021d89a",
     "ExPhil/Exphil 3 - Hva er VItenskap?.md.tmp.64917.2e51b2e3e09c",
@@ -339,13 +358,10 @@
     "ExPhil/Exphil 3 - Hva er VItenskap?.md",
     "ExPhil/Exphil 4 - Kunnsapsresistens.md",
     "IN5290",
-    "IN3210/IN3210 - Intro to Sec.md",
     "IN1020/IN1020 - Intro til Datakommunikasjon.md.tmp.19625.80c2c0f4e6f3",
     "IN3210/IN3210 - Intro to Sec.md.tmp.19625.ce722bb85f35",
     "IN3210/IN3210 - Intro to Sec.md.tmp.19625.7c0e825c5b6d",
-    "IN3210/NK Sikkerhet 3 - Asymmertric Cryptography.md",
     "IN1000/Oppgave 3 - Oblig 2.md",
-    "IN3210/NK Sikkerhet 2 - Symmetric Encryption - IN3210.md",
     "IN1000/Oppgave 4 - Oblig 2.md",
     "IN3210/Pasted image 20260825142640.png",
     "NK Sikkerhet 3 - Asymmertric Cryptography.md",
