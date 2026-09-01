@@ -14,9 +14,6 @@ Se også: [[Exphil 3 - Hva er VItenskap?#Lakatos]] — samme stoff utdypet i for
 	* kjennetegnet på troverdig vitenskap - progressict forskningsprogramm med hard kjerne og hjelpeypoteser
 * Hva er den logiske oppbygningen i teksten
 	* avvise andre sy og legger ut sitt egne ved eksempler fra vitenskapens historie
-* avb
-* abv
-* abv
 # tekst
 * Kan ikke regne alt som kunnskap - demoner etc
 * må spore innhold tilbake til hvorfor - Hume
@@ -28,6 +25,6 @@ Se også: [[Exphil 3 - Hva er VItenskap?#Lakatos]] — samme stoff utdypet i for
 ### Vurdering?
 i - støtter lakatos sitt mer fallibilistiske utgangspunkt, og at fremgangsmåten til forskning er viktigere enn strenge bevis
 ii - usikker på hvorvidt det er nok å genneralisere forskning inn i to "båser"
-
+###### Formidler sannheten med et godt grunnlag, og er bygget opp av en sterk fremgangsmåte
 ---
 **Se også:** [[Exphil 3 - Hva er VItenskap?]] · [[Oversikt|Oversikt]]
