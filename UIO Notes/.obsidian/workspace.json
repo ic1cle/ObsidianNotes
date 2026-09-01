@@ -107,16 +107,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IN1020/IN1020 - Intro til Datakommunikasjon.md",
+                "file": "Oversikt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IN1020 - Intro til Datakommunikasjon"
+              "title": "Oversikt"
+            }
+          },
+          {
+            "id": "c06125482a9b097e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IN5290/IN5290 - Intro to Ethical Hacking, Info Gathering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IN5290 - Intro to Ethical Hacking, Info Gathering"
+            }
+          },
+          {
+            "id": "175291d8664c85a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ExPhil/Exphil Seminar 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exphil Seminar 2"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -294,10 +322,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca8d8e66bbc7150e",
+  "active": "175291d8664c85a9",
   "lastOpenFiles": [
-    "IN3210/IN3210 - Intro to Sec.md",
+    "ExPhil/Exphil 4 - Kunnsapsresistens.md",
+    "ExPhil/Exphil Seminar 2.md",
+    "IN5290/IN5290 - Intro to Ethical Hacking, Info Gathering.md",
+    "Oversikt.md",
+    "IN5290",
     "IN1020/IN1020 - Intro til Datakommunikasjon.md",
+    "IN3210/IN3210 - Intro to Sec.md",
     "IN1020/IN1020 - Innfri Sikkerhetsmål.md",
     "IN1020/IN1020 - Intro til Datakommunikasjon.md.tmp.19625.80c2c0f4e6f3",
     "IN3210/IN3210 - Intro to Sec.md.tmp.19625.ce722bb85f35",
@@ -306,18 +339,15 @@
     "Oversikt.md.tmp.19625.f43caef58409",
     "IN3210/NK Sikkerhet 3 - Asymmertric Cryptography.md",
     "IN1020",
-    "ExPhil/Exphil 4 - Kunnsapsresistens.md",
     "ExPhil/Exphil 3 - Hva er VItenskap?.md",
     "IN1000/Oppgave 3 - Oblig 2.md",
     "IN3210/NK Sikkerhet 2 - Symmetric Encryption - IN3210.md",
     "IN1000/Oppgave 4 - Oblig 2.md",
     "ExPhil/sedR9mDEv",
-    "Oversikt.md",
     "IN3210/Pasted image 20260825142928.png",
     "IN3210/Pasted image 20260825142640.png",
     "ExPhil/sedZWWbpE",
     "IN1000/Oppgave 4 - Oblig 2.md.tmp.62850.06e61ba4fe35",
-    "IN1000/Oppgave 3 - Oblig 2.md.tmp.62850.067f6a57a63e",
     "NK Sikkerhet 3 - Asymmertric Cryptography.md",
     "IN1000/Presis forståelse 3 - IN1000.md"
   ]
