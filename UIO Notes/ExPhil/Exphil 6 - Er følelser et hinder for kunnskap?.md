@@ -1,0 +1,163 @@
+[1]Feministiskk epistemologi [2]Historiske Nedvurdering av emosjoner
+[3]Hva er emosjoner?           [4]Myten om nøytral Forskning
+[5]Fredløse emosjoner         [5]Emosjoners epistemiske potensial
+# [1]Hva er feministisk epistemologi?
+- Elizabeth Anerson:
+	- Feministisk kunnskap og vitenskapsteori kartlegger hvordan dominerende oppfatninger og praksisene knyttet til kunskptilskrivelse, oppnåelse -> systematisk diskriminerer kvinner og andre grupper. førsøker å endre dette for å fremme disse gruppene
+- Hvorfor trenger vi feministisk epistemologi?
+	- Den deskriptive delen - Vi trenger noen til å kartlegge diskriminerende prakiser
+		- ofte usynlig
+	- Den normative delen - diskriminering er urettferdig -> må beskjempes
+### [2]Historisk nedvurdering av emosjoner
+- Kunnskapsdannelse, argumentasjon, vitenskapelig metode -- Fornuft
+- Hva med emosjoner? postiv rolle? hinder?
+	- tatt for gitt av de aller fleste at det er et ja - men stemmer det?
+		- farlig, skadelig, villedene
+		- Jaggers mål er å vise at emosjoner kan ha positiv epistemisk verdi
+- Kontrasten mellom fornuft og emosjoner skjer langs flere akser:
+	- Fornuft: (objektivt)
+		- Det rasjonelle
+		- Det mentale (gjrør oss gudommelig???)
+		- Det kulturelle
+		- Det universelle (oppdage morale prinsipper, og lage universiellle lover)
+		- Det offentlige (bruke offentlig fornuft - Kant)
+		- Det mannlige
+	- Emosjoner: (subjektivt)
+		- Det irrasjonelle
+		- Det fysiske (knytter oss til dyr???)
+		- Det naturlige
+		- Det partikulære (individuelt)
+		- Det private (Holde hjemme)
+		- Det kvinnelige
+	- Systemtiskt at fornuft slår emosjoner
+	- Jagger - kontrast mellom fornuft og emosjoner ble skjerpet på 1600-tallet
+		- Platon oag Aristoteles hadde mer nyansert syn
+			- Emosjoner nødvendige -> trenger veiledning fra fornuft
+			- kjærlighet til visdom
+- Må vite historie for å kunne skillet på "fordommer" om emosjoner og fornuft
+	- arvet
+	- Ikke gitt at vi MÅ tenke på emosjoner på den måten
+# [3]Hva er emosjoner?
+- Jaggers svar inrømmer at vi er begrenset
+	- umulig å dekke og forstå alt som kalles "emosjoner"
+	- begrenset til "vestlige emosjoner"
+		- tydeligvis forskjell mellom kulturer
+	- Hun skal ikke prøve å definere emosjoner
+- Fem trekk ved emosjoner (beskrivelse /= definisjon)
+	- De er følelser (kan brukes om emosjoner, men hun bruker følelser på mer spesifikk måte)
+		- Hva skjer i kroppen
+	- De er intensjonelle
+		- det som er intensjonellt handler om noe - ikke det samme som intendert?
+	- De evaluerer eller vurderer situasjonen
+	- De er aktive
+		- Vi kan føle oss passiv i møte med emosjoner
+		- kan vi altid sloss emosjoner?
+	- De er sosiale konstruksjoner
+		- Kan vi forklare emosjoner med biologi
+		- Jagger sier de er ofte sosiale konstruksjoner
+- Emosjoner er følelser
+	- Inkluderer fysiologiske reaksoner - opplever emosjon -> gråter
+		- Adrenalin produseres når man er redd eller sint (fysisk/kropslig)
+	- "Det stumme synet"
+		- ikke godta svaret om at emosjoner "bare" er følelser
+		- Resten av Jaggers analyse er en tilbakebisning av det stumme synet
+- Emosjoner er intensjonelle
+	- emosjoner har innhold/handler om noe - kan ofte svare på hvorfor du har emosjonen
+		- Det er en "ledsagende tanke eller vurdering" som bestemmer hvilken emosjon (s136)
+	- må se på innhold for å forklare/forstå hvorfor
+- Emosjoner evaluerer situasjonen
+	- Emosjoner forutsetter verdier
+		- en emosjon betyr at vi har reagert på noe som vi vurderer bra/dårlig (s140)
+		- evaluering bedømmer noe -> godt eller dårlig
+	- Emosjoner velger hva oppmerksomheten skal fokusere på og definerer delvis våre observ.
+		- Dette er viktig for å se emosjoners bidrag til vitenskap
+		- enkelt å "fikle" med oppmerksomheten vår
+		- emosjoner kan bidra til å styre oppmerksomhet
+- Emosjoner er aktive
+	- Vi opplever ofte emosjoner "som opplevelser som overmanner oss" (s. 138)
+		- Men vi kan påvirke og forme våre emosjoner
+		- vi kan til en viss grad velge emosjoner (kan tolke situasjon hvordan du vil)
+- Emosjoner har en sosial funksjon
+	- emosjoner /= bare ditt forhold til deg selv
+	- emosjoner kan være forhold til andre
+	- vi oppnår noe ved å være trist eller sint
+	- aktiv måte å kommunisere med andre
+		- De er handling-aktige - kan brukes som handlinger
+- Emosjoner er sosiale konstruksjoner
+	- emosjoner er ikke rent biologiske -> ellers hadde vi alle opplevd de likt
+	- en sosial konstruksjon er noe som er delvis konstruert av samfunnet/kultur
+		- barndom, osv osv
+	- Kultur lærer barn hva en passende reaksjon på en situasjon er
+	- Siden emosjoner involverer evaluering -> bundet til måten verden oppleves kulturelt
+	- kultur forteller oss hvordan vi burde tenke
+	- vi blir nesten "programmert" av kulturen
+		- stort avvik i hva som gjenkjennes som uttrykk fra kultur til kultur (s137)
+	- ^^^ viser at emosjoner er delvis konstruert av kulturen
+	- Noen emosjoner kan være kultur spesifikke - ikke finnes i noen kulturer
+# [4]Myten om nøytral forskning
+- Positivisme
+	- en empirisk tilnærming til vitenskap - hvor den forstås som en objektiv, verdinøytrale og interressefri aktivitet
+	- Positivisme fremhever et ideale om nøytral forskning, og nekter emosjoner en positiv rolle
+		- Jagger er en fiende til positivisme i artikkelen
+		- Emosjoners innflytelse er ansett for å forvrenge elle hindre observasjon eller kunnskap (s 142)
+	- Et unntak i positivistisk epistemologi
+		- Oppdagelseslogikk (hvilken hypotese) vs begrunnelseslogikk (etter hyp.)
+			- man lager hypoteser før undersøkelse
+		- Positivisme tillater emosjoner når man lager hypoteser
+			- tipp topp ok for positivisme
+			- forske på noe du brenner for
+		- etterprøvbarhet eliminerer subjektive verdier og emojsoner (begrunnelseslogikk)
+		- jagger kritiserer positivismens distinksjon mellom oppdagelses- begrunnelseslogikk som kunstig
+			- hun peker på vitenskapelig praksis
+				- åpenbart at verdier og emosjoner har gjennomstyr hele prosessen
+				- forsking på kvinnehelse påvirket av emosjoner/verdier
+					- kvinner var underverdige
+					- mange eksempler av åpenbar forskning basert på emosjoner
+				- tror vi at de i fremtiden kommer til å se på oss som "den objektive generasjonen"
+					- hell nah
+					- Hvilke ting tar vi for gitt nå???
+		- Vi må forkaste myten om nøytral forskning
+			- Betyr det at vi gir opp vitenskap?
+				- nope, vi må revurdere forholdet mellom kunnskap, verdier og emosjoner 
+				- emosjoner og verdier er med i kunnskap, hvordan skal vi bruke dem
+		- Myten fungerer som en  ideologisk mekanisme som ekskluderer kvinner og andre minoriteter
+			- De med makt tjener på at vitenskapelig forskning som reflekterer deres verdier blir ansett som objektiv
+			- de uten makt kan avskrives som emosjonelle, irrasjonelle og subjektive
+# [5]Fredløse emosjoner
+- Emosjonelt hegemoni
+	- strukturert trekk ved samfunnet
+	- emosjoner er sosiale konstrukt -> samfunnets verdier blir bygget inn i fundamentet vårt (s145)
+	- De aksepterte emosjonene stemmer overens med det dominerende verdisynet
+		- hva de med makt mener er bra - hva er best foor de
+	- Derfor blir folks emosjoner en måte for de med makt, og dermed definisjonsmakt, å videreføre deres herskende posisjon i samfunnet
+	- blir emosjoner da bare ødeleggende?
+		- nei, mennesker har ikke alltid de konvensjonelt aksepterte emosjonene
+		- Konvensjonelt uakseptable emosjoner kalles for "**fredløse emosjoner**"
+			- (Outlaw emotions)
+	- Subkulturer og fredløse emosjoner
+		- når individer opplever disse -> forvirret
+		- når flere opplever disse -> subkultur (imot det som anses som sosialt acceptab. s146)
+		- slike emosjoner er "**epistemisk revolusjonære**" (s146)
+###### Fredløse emosjoner og Feminisme
+- avdekke forhold --> fredløse emosjoner
+- sinnet mot uønsket seksuell oppmerksomhet blir en del av en felles oppfatning at det finnes et utbredt mønster for trakasering (s147)
+- åpenbar seksuell trakasering var ganske vanlig og akseptert for 50 år siden
+- **Fredløse emosjoner ledet til en positiv forandring i samfunnet! kaboom** 
+	- Trengte fredløse emosjoner for å avdekke dette
+- Fredløse emosjoner og kritisk forskning
+	- Kan motivere til nye undersøkelse og styre valg av vitenskapelige problemstillinger
+	- Kan lede til "revolusjonære observasjoner" (s147)
+- Innvendinger:
+	- Hvilke fredløse emosjoner bør omfavnes og hvilke bør avvises?
+	- Noen emosjoner er mer passende?
+		- ikke opplagt hvordan vi bestemmer hva er mer passende
+		- Passende om de er karakteristiske for et samfunn der alle trives....eller om de leder til at et slikt samfunn etableres -Jagger (s148)
+		- leder til et samfunn der alle trives
+	- Underordnede mennesker har et epistemologisk privilegium
+		- Deres perspektiv er mindre partisk og derfor mer pålitelige
+			- når det gjelder et samf der alle trives
+# Emosjoners epistemiske potensial
+- oppsumering
+	- Passende emosjoner er uunværlige for pålitelig kunnskap
+	- økt kunnskap bidrar til passende emosjoner
+		- Disse forsterker hverandre
