@@ -1,4 +1,7 @@
 # Introduksjon
+
+Se også: [[Oversikt|Oversikt]] · forrige: [[IN1020 - Innfri Sikkerhetsmål]]
+
 Du jobber som konsulent i et IT-selskap, og du har fått i oppdrag å hjelpe et tannlegekontor med å
 sette opp et datanettverk og programvare for håndtering av pasienter, behandlinger og fakturering.
 Tannlegekontoret har nylig anskaffet et IT-system, og gjennom dette kan pasientene bestille timer
@@ -19,7 +22,7 @@ Akkuratt i helsesektoren er alle tre sikkerhetsmålene helt essensielle, det er 
 
 *(b) Nevn så to sikkerhetstiltak som hos tannlegekontoret kan bidra til å ivareta hvert av disse sik-*
 *kerhetsmålene. Begrunn hvorfor dine valgte tiltak vil være til hjelp.*
-For den digitale tjenesten vil det viktisgste være tilgangskontrollenj, vi må implementere en streng rettighetskontroll, i tillegg til sikre metoder å overlevere data på. All data må være sterkt kryptert, og med bruk av en KDC (Key distribution Center) som kerberos så kan vi fordele sikre nøkler som kan få tilgang til dataen. Vi kan også implementere et strengt loggsystem så vi kan oppdage og korrigere feil eller misbruk av tjenestene effektivt. I oppsummering så vil en sterk tilgangskontroll og kryptering av data, i tillegg til et sterkt loggsystem føre til god beskyttelse og enkel oppdagelse av feil/misbruk.
+For den digitale tjenesten vil det viktisgste være tilgangskontrollenj, vi må implementere en streng rettighetskontroll, i tillegg til sikre metoder å overlevere data på. All data må være sterkt kryptert, og med bruk av en KDC (Key distribution Center) som [[NK Sikkerhet 4 - Key Management and Entity Authentication - Kerberos|kerberos]] så kan vi fordele sikre nøkler som kan få tilgang til dataen. Vi kan også implementere et strengt loggsystem så vi kan oppdage og korrigere feil eller misbruk av tjenestene effektivt. I oppsummering så vil en sterk tilgangskontroll og kryptering av data, i tillegg til et sterkt loggsystem føre til god beskyttelse og enkel oppdagelse av feil/misbruk.
 # Oppgave 3
 *Det nyanskaffede IT-systemet dekker altså flere ulike funksjoner, bl.a timebestilling, fakturering, pasi-entbehandling og journalføring.*
 *(a) Vurder viktigheten av autentisitet til de ulike brukergruppene av systemet som kan tenkes logge*
@@ -32,6 +35,9 @@ For den digitale tjenesten vil det viktisgste være tilgangskontrollenj, vi må 
 *i ett og samme dataprogram/IT-system? Begrunn kort.*
 # Oppgave 4
 (For å besvare denne oppgaven trenger du kunnskap fra forelesningen om kryptering 9. september)
+
+> Se også: [[NK Sikkerhet 3 - Asymmertric Cryptography]] (asymmetrisk kryptering, PKI)
+
 Tannlegene er skeptiske til å gå fra resept på papir til et elektronisk reseptsystem. En elektronisk
 resept opprettes ved at en tannlege logger inn på nettsiden e-resept.no, skriver inn pasientdata og
 info om foreskrevet legemiddel, og signerer resepten digitalt. Du forklarer at bruk av kryptografiske

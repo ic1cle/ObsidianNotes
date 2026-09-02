@@ -1,6 +1,6 @@
 # NK Sikkerhet 3 - Asymmetric Cryptography
 
-Se også: [[Oversikt|Oversikt]] · forrige: [[NK Sikkerhet 2 - Symmetric Encryption - IN3210]]
+Se også: [[Oversikt|Oversikt]] · forrige: [[NK Sikkerhet 2 - Symmetric Encryption - IN3210]] · neste: [[NK Sikkerhet 4 - Key Management and Entity Authentication - Kerberos]]
 
 ## Symmetric Encryption (recap)
 
@@ -39,5 +39,3 @@ Fullstendige notater: [[NK Sikkerhet 2 - Symmetric Encryption - IN3210]]
 Remember message authentication code - MAC
 	with rsa the sender creates the keypair
 
----
-**Se også:** [[NK Sikkerhet 2 - Symmetric Encryption - IN3210]] · [[Oversikt|Oversikt]]

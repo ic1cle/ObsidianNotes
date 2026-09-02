@@ -5,6 +5,8 @@ tags: [sikkerhet, security, forelesningsnotater]
 
 # Innfri Sikkerhetsmål
 
+Se også: [[Oversikt|Oversikt]] · forrige: [[IN1020 - Lagdeling i Nettverk]] · neste: [[IN1020 - Oblig 1 - Sikkerhet og Datanetverk i Praksis]]
+
 ## KIT
 - **K**onfidensialitet
 - **I**ntegritet

@@ -1,6 +1,6 @@
 # NK Sikkerhet 2 - Symmetric Encryption
 
-Se også: [[Oversikt|Oversikt]] · neste: [[NK Sikkerhet 3 - Asymmertric Cryptography]]
+Se også: [[Oversikt|Oversikt]] · forrige: [[IN3210 - Intro to Sec]] · neste: [[NK Sikkerhet 3 - Asymmertric Cryptography]]
 
 Cryptologi --> 
 	Cryptography(Study of encryption methods) and 
@@ -57,6 +57,3 @@ Main crypto cipher types
 		reason to use is faster - easy to switch because software
 		not shuffled enough? like cads basically
 ### ChaCha20
-
----
-**Se også:** [[NK Sikkerhet 3 - Asymmertric Cryptography]] · [[Oversikt|Oversikt]]

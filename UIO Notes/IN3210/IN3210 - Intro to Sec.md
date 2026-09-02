@@ -5,6 +5,8 @@ tags: [security, lecture-notes]
 
 # Intro to Sec
 
+Se også: [[Oversikt|Oversikt]] · neste: [[NK Sikkerhet 2 - Symmetric Encryption - IN3210]]
+
 ## What is security?
 - **Protect assets**
 - **Countermeasure** vs. **Attacker** / **Threat**

@@ -191,16 +191,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ExPhil/Exphil 6 - Er følelser et hinder for kunnskap?.md",
+                "file": "Oversikt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exphil 6 - Er følelser et hinder for kunnskap?"
+              "title": "Oversikt"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -379,11 +379,21 @@
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "b77436c3a58dc5ae",
+  "active": "1595d187f0963348",
   "lastOpenFiles": [
-    "ExPhil/Exphil Seminar 2.md",
     "Oversikt.md",
     "ExPhil/Exphil 6 - Er følelser et hinder for kunnskap?.md",
+    "IN1000/Presis forståelse 3 - IN1000.md.tmp.24018.2dbc5eb57f84",
+    "IN1000/Presis forståelse 3 - IN1000.md.tmp.24018.c71c37f59877",
+    "IN5290/IN5290 - Intro to Ethical Hacking, Info Gathering.md.tmp.24018.5ca73bf3c5db",
+    "IN3210/NK Sikkerhet 3 - Asymmertric Cryptography.md.tmp.24018.e8235b87300f",
+    "IN3210/NK Sikkerhet 3 - Asymmertric Cryptography.md.tmp.24018.46826849c419",
+    "IN3210/NK Sikkerhet 2 - Symmetric Encryption - IN3210.md.tmp.24018.677621983977",
+    "IN3210/NK Sikkerhet 2 - Symmetric Encryption - IN3210.md.tmp.24018.1c39e5848f53",
+    "IN3210/NK Sikkerhet 4 - Key Management and Entity Authentication - Kerberos.md.tmp.24018.ed94546dcbf9",
+    "IN3210/IN3210 - Intro to Sec.md.tmp.24018.28bac138863c",
+    "IN1020/IN1020 - Oblig 1 - Sikkerhet og Datanetverk i Praksis.md.tmp.24018.fd2805498b0f",
+    "ExPhil/Exphil Seminar 2.md",
     "IN1020/IN1020 - Oblig 1 - Sikkerhet og Datanetverk i Praksis.md",
     "IN1020/IN1020 - Innfri Sikkerhetsmål.md",
     "IN1020/IN1020 - Intro til Datakommunikasjon.md",
@@ -396,18 +406,8 @@
     "IN1000/Oppgave 4 - Oblig 2.md",
     "IN3210/Pasted image 20260825142928.png",
     "IN5290/IN5290 - Intro to Ethical Hacking, Info Gathering.md",
-    "Oversikt.md.tmp.64917.0c05df5a5640",
-    "ExPhil/Exphil 3 - Hva er VItenskap?.md.tmp.64917.f5a4c021d89a",
-    "ExPhil/Exphil 3 - Hva er VItenskap?.md.tmp.64917.2e51b2e3e09c",
-    "ExPhil/Exphil Seminar 2.md.tmp.64917.b1e8ebf3d7a3",
-    "ExPhil/Exphil Seminar 2.md.tmp.64917.d2afa43e6cc7",
-    "ExPhil/Exphil Seminar 2.md.tmp.64917.e27ae2d57110",
     "ExPhil/Exphil 3 - Hva er VItenskap?.md",
     "ExPhil/Exphil 4 - Kunnsapsresistens.md",
-    "IN5290",
-    "IN1020/IN1020 - Intro til Datakommunikasjon.md.tmp.19625.80c2c0f4e6f3",
-    "IN3210/IN3210 - Intro to Sec.md.tmp.19625.ce722bb85f35",
-    "IN3210/IN3210 - Intro to Sec.md.tmp.19625.7c0e825c5b6d",
     "IN3210/Pasted image 20260825142640.png",
     "NK Sikkerhet 3 - Asymmertric Cryptography.md",
     "IN1000/Presis forståelse 3 - IN1000.md"

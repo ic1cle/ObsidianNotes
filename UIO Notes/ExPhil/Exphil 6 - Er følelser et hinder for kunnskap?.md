@@ -1,6 +1,9 @@
 [1]Feministiskk epistemologi [2]Historiske Nedvurdering av emosjoner
 [3]Hva er emosjoner?           [4]Myten om nøytral Forskning
 [5]Fredløse emosjoner         [5]Emosjoners epistemiske potensial
+
+Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 4 - Kunnsapsresistens]]
+
 # [1]Hva er feministisk epistemologi?
 - Elizabeth Anerson:
 	- Feministisk kunnskap og vitenskapsteori kartlegger hvordan dominerende oppfatninger og praksisene knyttet til kunskptilskrivelse, oppnåelse -> systematisk diskriminerer kvinner og andre grupper. førsøker å endre dette for å fremme disse gruppene

@@ -1,3 +1,5 @@
+Se også: [[Oversikt|Oversikt]] · forrige: [[NK Sikkerhet 3 - Asymmertric Cryptography]]
+
 How to transfer keys betwwen Alice and Bob?
 [1]Intro to k.Mang. - [2]Key Distribution Center - [3]Kerberos Protocol - [4]Kerberos Attacks
 ## [1]Intro to key management:

@@ -1,4 +1,7 @@
 # Telefonnettverk
+
+Se også: [[Oversikt|Oversikt]] · neste: [[IN1020 - Lagdeling i Nettverk]]
+
 	Circut switching
 		direkte linje mellom avsender og motttaker
 	Tilkoblingsorientert tjeneste

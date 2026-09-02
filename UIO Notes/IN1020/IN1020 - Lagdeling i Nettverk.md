@@ -1,4 +1,7 @@
 # Kort repitisjon -
+
+Se også: [[Oversikt|Oversikt]] · forrige: [[IN1020 - Intro til Datakommunikasjon]] · neste: [[IN1020 - Innfri Sikkerhetsmål]]
+
 * Nettverkskomponenter - endepunkt = datamaskin/klient - tjenere, servere...
 * Noder er fellesbetegnelse på alt, endepunkt, tjenere, intermediate systemer
 * Punkt til punkt, kabel fra a -> b -- Stjerne topologi er vanligst, neste tre som flere ruter

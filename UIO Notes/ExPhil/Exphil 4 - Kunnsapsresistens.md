@@ -3,7 +3,7 @@
 * Wikforss' fallibilisme
 * Årsaken til kunnskapsresistens
 
-Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 3 - Hva er VItenskap?]]
+Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 3 - Hva er VItenskap?]] · neste: [[Exphil 6 - Er følelser et hinder for kunnskap?]]
 ## Kunnskapsresistens
 	elementene som forårsaker kunnskapsresistens -> ikke nytt
 	pseudovitenskapelig praksis? [[Exphil 3 - Hva er VItenskap?]]
@@ -147,6 +147,3 @@ Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 3 - Hva er VItenskap?]]
 			Gå ut i verden og observer relevante forhold - forskning
 			tro på eksperter (ikke ukritisk)
 		Debatter bør foregå på skikkelig vis - sakelig og redelige
-
----
-**Se også:** [[Exphil 3 - Hva er VItenskap?]] · [[Oversikt|Oversikt]]
