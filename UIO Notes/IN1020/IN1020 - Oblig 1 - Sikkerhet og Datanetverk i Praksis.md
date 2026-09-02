@@ -22,48 +22,49 @@ Akkuratt i helsesektoren er alle tre sikkerhetsmålene helt essensielle, det er 
 
 *(b) Nevn så to sikkerhetstiltak som hos tannlegekontoret kan bidra til å ivareta hvert av disse sik-*
 *kerhetsmålene. Begrunn hvorfor dine valgte tiltak vil være til hjelp.*
-For den digitale tjenesten vil det viktisgste være tilgangskontrollenj, vi må implementere en streng rettighetskontroll, i tillegg til sikre metoder å overlevere data på. All data må være sterkt kryptert, og med bruk av en KDC (Key distribution Center) som [[NK Sikkerhet 4 - Key Management and Entity Authentication - Kerberos|kerberos]] så kan vi fordele sikre nøkler som kan få tilgang til dataen. Vi kan også implementere et strengt loggsystem så vi kan oppdage og korrigere feil eller misbruk av tjenestene effektivt. I oppsummering så vil en sterk tilgangskontroll og kryptering av data, i tillegg til et sterkt loggsystem føre til god beskyttelse og enkel oppdagelse av feil/misbruk.
+For den digitale tjenesten vil det viktisgste være tilgangskontrollenj, vi må implementere en streng rettighetskontroll, i tillegg til sikre metoder å overlevere data på. All data må være sterkt kryptert, og med bruk av en KDC (Key distribution Center) som Kerberos så kan vi fordele sikre nøkler som kan få tilgang til dataen. Vi kan også implementere et strengt loggsystem så vi kan oppdage og korrigere feil eller misbruk av tjenestene effektivt. I oppsummering så vil en sterk tilgangskontroll og kryptering av data, i tillegg til et sterkt loggsystem føre til god beskyttelse og enkel oppdagelse av feil/misbruk.
 # Oppgave 3
 *Det nyanskaffede IT-systemet dekker altså flere ulike funksjoner, bl.a timebestilling, fakturering, pasi-entbehandling og journalføring.*
 *(a) Vurder viktigheten av autentisitet til de ulike brukergruppene av systemet som kan tenkes logge*
 *inn (pasient, kontoransatt, tannlege) og hvordan ulike typer autentiseringsfaktorer kan påvirke*
 *graden av tillitt til dem.*
+Autentisitet er utrolig viktig for at rikitg bruker skal f tilgang tiil riktig data. det hadde vært et utrolig sikkerhetsproblem og en kunde kunne gått inn å lest andre kunders journal og fått tilgang til sensitiv informasjon om dem. En pasient skal i prinsippet bare ha tilgang til sin egen data, informasjon, og kanskje litt informasjon om legen sin. En kontoransatt burde ha tilgang til å redigere timer og administrere oppsettet, og en Lege burde ha tilgang til nesten alt som angår passientene sine. Uten ordentlig auntentisering kunne en trusselaktør fått tilgang til masse informasjon om andre passienter, eller muligheten til å administrere timeplanen og lignende. Som autentiseringsfaktorer er det litt varierende for hva bedreiften faktisk lagrer av helsedata og lignende. For brukeren er det som regel nok med tofaktorsautentisering for å logge inn, noe mer hadde blitt vanskelig og hadde påvirket tilgjeneligheten til tjenestene, og noe mindre hadde ført til at det er enklere for en trusselaktør å komme seg inn på brukeren. For en lege eller kontorarbeider som skal inn i systemene ville jeg anbefalt å ha et passord, og en fysisk kryptert nøkkel; som et nøkkelkort, eller usb som legen må bruke til å autentisere seg; dette kan blir litt vanskeligere for legen, men sikrer i stor grad at dataen er trygg, og vil føre til at man kan stole på at dataen sin er tryggere. Selvfølgelig så er det fortsatt mulig at noen får tak i nøkkelen eller lignende, men det sikrer i stor grad at tilgangen er sikret.
 
-*(b) Er det nødvendig med tilgangskontroll innad i systemet, etter at brukerne har logget inn? Begrunn*
-*svaret.*
-*(c) Fra et datasikkerhetsperspektiv, er det egentlig lurt å ha timebestilling, fakturering og pasientdata*
-*i ett og samme dataprogram/IT-system? Begrunn kort.*
+*(b) Er det nødvendig med tilgangskontroll innad i systemet, etter at brukerne har logget inn? Begrunnsvaret.*
+Det er helt nødvendig å ha en god tilgangskontroll. Som nevnt tidligere skal ikke en bruker kunne få tilgang til en annen bruker sin data, og i hvertfall ikke tilgang til å redigere data. I helsesektoren er det utrolig streng taushetsplikt, så bedriften er pliktig i å sikre dataen til en pasient. I tillegg om en bruker ikke kan stole på at informasjonen sin er trygg kan det føre til at man tilbakeholder informasjon og dette kan føre til at legene ikke får vite alt de trenger å vite for å diagnosere/medikere riktig. 
+
+*(c) Fra et datasikkerhetsperspektiv, er det egentlig lurt å ha timebestilling, fakturering og pasientdata i ett og samme dataprogram/IT-system? Begrunn kort.*
+Fra et sikkerhetsperspektiv sp er det alltid lurt å sepparere ulike systemer så mye som mulig, men man mp tenke på tilgjengelighet også. Jeg hadde nok separert de tre funksjonalitetene inn i tre systemer slik at man er sikrest mulig, så kan man "låne" data fra et system til et annet når det trengs, for eksempel en kunde som ønsker tilgang til sin journal, så kan hovedplatformen hente informasjon fra databasen med pasientdata og gjøre det tilgjengelig for brukern; dette kan gjøres trygt med bruk av kryptografi slik at du an fordele riktig data til riktig pasient. Om alle "applikasjonene" ligger på samme system vil det øke rissikoen sterkt for at om man klarer å kompromittere en applikasjon kan man få tilgang til flere, f.eks. med en xxs sårbarhet som lar en trusselaktør få lese pasientdata fra databasen med å legge inn ondsinnet kode i sin egen journal.
 # Oppgave 4
-(For å besvare denne oppgaven trenger du kunnskap fra forelesningen om kryptering 9. september)
+*Tannlegene er skeptiske til å gå fra resept på papir til et elektronisk reseptsystem. En elektronisk*
+*resept opprettes ved at en tannlege logger inn på nettsiden e-resept.no, skriver inn pasientdata og*
+*info om foreskrevet legemiddel, og signerer resepten digitalt. Du forklarer at bruk av kryptografiske*
+*algoritmer vil gi god sikkerhet både mot falske nettsider og mot at andre kan skrive ut falske resepter i en tannleges navn (f.eks. store mengder narkotiske legemidler).*
+*(a) Forklar kort hvordan PKI for internett og bruk av protokollen https kan gi nødvendig sikkerhet*
+*for og tillit til at nettsiden e-resept.no er autentisk.*
+PKI (Public Key Infrastructure) er et system som lar en CA (certificate autority) signere et nettsted ved hjelp av assymetrisk kryptering slik at nettleseren kan kan sjekke sertifikatet til den gjeldene nettsiden. Nettleseren din har allerede en liste med CAer de stoler på og derfor kan då forsikre at nettsider er den riktige; dette sørger altså for autentisiteten til nettsiden. HTTPS bruker TLS (Transport Layer Security) hvor PKI er en del av det. Så først sjekker HTTPS protokollen om signaturen til nettsiden finnes i listen med CAer, og etter det krypterer den all data sendt mellom brukeren og nettstedet; dette sørger for konfidensialitet. Til slutt så legger tls også på en identifikasjon fra avsender i den krypterte meldingen slik at man kan sørge for at en angriper ikke kan endre dataen underveis, som da sørger for integritet. 
 
-> Se også: [[NK Sikkerhet 3 - Asymmertric Cryptography]] (asymmetrisk kryptering, PKI)
-
-Tannlegene er skeptiske til å gå fra resept på papir til et elektronisk reseptsystem. En elektronisk
-resept opprettes ved at en tannlege logger inn på nettsiden e-resept.no, skriver inn pasientdata og
-info om foreskrevet legemiddel, og signerer resepten digitalt. Du forklarer at bruk av kryptografiske
-algoritmer vil gi god sikkerhet både mot falske nettsider og mot at andre kan skrive ut falske resepter
-i en tannleges navn (f.eks. store mengder narkotiske legemidler).
-(a) Forklar kort hvordan PKI for internett og bruk av protokollen https kan gi nødvendig sikkerhet
-for og tillit til at nettsiden e-resept.no er autentisk.
-(b) Forklar kort hvordan bruk av asymmetrisk kryptering og en PKI for digital signering av resepter
-kan forhindre forfalskning av resepter. Hvem må da inneha hhv. privat og offentlig kryptografisk
-nøkkel i et nøkkelpar når en tannlege signerer en resept digitalt?
-# Oppgave 5
+*(b) Forklar kort hvordan bruk av asymmetrisk kryptering og en PKI for digital signering av resepter*
+*kan forhindre forfalskning av resepter. Hvem må da inneha hhv. privat og offentlig kryptografisk*
+*nøkkel i et nøkkelpar når en tannlege signerer en resept digitalt?*
+PKIen sørger for at du kan stole på at avsender er den de sier de er, og krypteringen for den digitale signaturen gjør at brukeren (eller programmet) kan bruke public keyen på en hash som ligger ved signaturen for å sjekke integriteten av reseptet. Dette forhindrer da at noen andre en den med private keyen kan generere den signaturen, og vi kan garantere at avsender er legen.
+# *Oppgave 5*
 Tannlegekontoret får internett levert fra en ISP via en fibertilkobling. Abonnementet har en hastighet
 på 200 megabit ned og 50 megabit opp og inneholder en offentlig IP-adresse.
-(a) Tannlegekontoret har 12 endesystemer som skal kobles til nettverket. Hva kan du gjøre for å dele
-den offentlige IP-adressen på alle maskinene i nettverket?
-(b) En av datamaskinene på tannlegekontoret styrer røntgenmaskinen. Her kreves det at leverandøren
-av maskinen kan logge seg på fra en ekstern maskin for å utføre vedlikehold. Hvilke utfordringer
-kan dette skape når flere maskiner må dele en offentlig IP-adresse, og hvordan kan vi løse dem?
+(a) Tannlegekontoret har 12 endesystemer som skal kobles til nettverket. Hva kan du gjøre for å dele den offentlige IP-adressen på alle maskinene i nettverket?
+Med bruk av NAT (Network address translation) deler routeren ut private IP-adresser til de 12 endesystemene. Dette gjør at routeren kan holde styr på hvilket endepunkt som er hvilket og deler det videre på den offentlige IP-adressen med et unikt port-nummer.
+(b) En av datamaskinene på tannlegekontoret styrer røntgenmaskinen. Her kreves det at leverandøren av maskinen kan logge seg på fra en ekstern maskin for å utføre vedlikehold. Hvilke utfordringer kan dette skape når flere maskiner må dele en offentlig IP-adresse, og hvordan kan vi løse dem?
+NAT fungerer bare med trafikk som skal fra endepunktet til nettet og ikke andre veien rundt. Fårespørselene fra leverandøren vil ikke komme fram til røntgenmaskinen ettersom de blir sittende fast hos routeren som ikke vet hvor den skal sende den videre. Mulige løsninger på dette er port-forwarding eller at leverandøren kobler seg på et vpn på tannlegen sitt nett. Med VPNet kan du sikre det med god authentisering får å sikre at andre ikke får tilgang. Port-forwarding er et mye raskere og enklere alternativ, men den åpner da porten til resten av internettet så den blir fort et mål for en trusselaktør
 (c) Tannlegekontoret utfører jevnlig sikkerhetskopi av data til en tjener på Internett. En vanlig
 sikkerhetskopi er på 915 MB. Hva er teoretisk overføringstid med tannlegekontorets forbindelse.
-2
+915 MB × 8 = 7320 Mbit
+7320 Mbit ÷ 50 Mbit/s = 146,4 sekunder
+
 # Oppgave 6
-Som konsulent er det ditt ansvar å konfigurere ruteren. Den private adressen til ruteren oppgitt i
-CIDR-format er: 192.168.100.1/26
-(a) Hva er riktig nettmaske og broadcast-adresse i punktnotasjon for nettverket?
-(b) Hvor mange IP-adresser kan deles ut i det private nettverket?
+*Som konsulent er det ditt ansvar å konfigurere ruteren. Den private adressen til ruteren oppgitt i*
+*CIDR-format er: 192.168.100.1/26*
+*(a) Hva er riktig nettmaske og broadcast-adresse i punktnotasjon for nettverket?*
+*(b) Hvor mange IP-adresser kan deles ut i det private nettverket?*
 # Oppgave 7
 Tannlegekontoret ønsker også å sette opp et trådløst gjestenettverk som pasientene kan bruke mens de
 venter på behandling.
