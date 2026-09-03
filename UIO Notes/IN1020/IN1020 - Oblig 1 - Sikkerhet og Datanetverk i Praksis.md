@@ -64,7 +64,17 @@ sikkerhetskopi er på 915 MB. Hva er teoretisk overføringstid med tannlegekonto
 *Som konsulent er det ditt ansvar å konfigurere ruteren. Den private adressen til ruteren oppgitt i*
 *CIDR-format er: 192.168.100.1/26*
 *(a) Hva er riktig nettmaske og broadcast-adresse i punktnotasjon for nettverket?*
+32-26=6
+11111111.11111111.11111111.11000000
+**Nettmaske** : 255.255.255.192
+256-192=64
+Nettverks : 192.168.100.0
+**Broadcast** : 192.168.100.63
 *(b) Hvor mange IP-adresser kan deles ut i det private nettverket?*
+64-2 => 62 adresser
+router bruker .1 => **61 adresser**
+
+
 # Oppgave 7
 Tannlegekontoret ønsker også å sette opp et trådløst gjestenettverk som pasientene kan bruke mens de
 venter på behandling.
@@ -73,7 +83,4 @@ venter på behandling.
 valget ditt.
 # Oppgave 8
 Å tenke som en «hacker»: Som pasient syns du at rotfyllingen og den nye krona du nylig fikk satt
-inn hos tannlegen koster altfor mye. Dessuten har du sett at tannlegen hele tiden har de aller nyeste
-mobiltelefonene, syklene, etc., og du syns rett og slett h*n tjener altfor godt. Du sysler litt med IT på
-si, og tenkte du skulle forsøke å komme deg inn i regnskapssystemet til tannlegekontoret for å endre
-beløpet på regningen. Gi et eksempel på hvordan du vil gå fram! (PS. ingen eksakt fasit :-))
+inn hos tannlegen koster altfor mye. Dessuten har du sett at tannlegen hele tiden har de aller nyeste mobiltelefonene, syklene, etc., og du syns rett og slett han tjener altfor godt. Du sysler litt med IT på si, og tenkte du skulle forsøke å komme deg inn i regnskapssystemet til tannlegekontoret for å endre beløpet på regningen. Gi et eksempel på hvordan du vil gå fram! (PS. ingen eksakt fasit :-))

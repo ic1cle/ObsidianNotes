@@ -1,0 +1,98 @@
+# HTTPS usage
+- exploded last ten years
+- uses PKI
+- needed a more secure web
+- HTTP over TLS => HTTPS
+### Attack on Key exchange (DIgital Signature)
+- Confidentiality not required
+- Integrity/Authenticity highly required
+- attacker could possibly modify key
+# Certificates
+- CA - Certificate Authority
+- "Signes" the public key
+- Alice can now give bob the key with the signature to ensure the key cant be modified
+	- changing a single bit would invalidate CA cert
+- Bob has to verify the signature -> needs a public key from the CA
+- CAs public key is included in OS or Browser
+	- most app call OS root store, fewer bring their own
+### Certificates Details
+- Lots of small info most important:
+	- Subject public key
+	- Subject
+	- Certificate Signature
+	- Issuer (GEANT in uio) C=etc country, O=etc Org, CN=web page
+	- Validity
+		- Certs dont have infinite lifetime
+		- some regulations only apply to certs ceates after spesific date
+		- problem -> CA can "cheat" and backdate a certificate
+	- CA / Browser forum -> where root store people
+	- Subject
+# Components in a Public Key Infrastructure (PKI)
+- Alice Cert. req. -> Registration (CA) -> certification -> Alice
+- Bob TLS connect to server -> bob gets signature -> verified
+	- make sure cert. is not revoked
+	- if private key is stolen cert is compromised
+	- Cert must be revoked - contact CA and requesst revoke
+	- how does bob know? bob requests validation from CA
+	- modern certs dont do the revocation anymore?
+- Certificate registration
+	- Must provide identity
+	- prove ownership of domain
+	- prove organization
+	- prove legal organization registration
+	- Put a CA-provided challange at a specific place on the web server
+		- CA can find it and prove you own the web server
+	- Same with DNS ^^^
+	- could do it with email, but not really used anymore - have to prove identity of email
+### Top CAs
+- one company who makes alot more certs
+- Let's Encrypt have 43% (Internet Security Research Group)
+	- 10x more certs than nr 2
+- LE does certs for free (non profit org)
+	- Funded by com. akami, mozillam cisco, google, Electronic frontier foundation
+	- foal simple and free certificates for TLS
+	- Automatic everything, just install a tool on your webserver
+	- auto renewal
+	- not feasable for EV certs
+	- shorter cert lifespan, since everything is auto
+- LE gets lots of phishing sites certificated
+	- over 14k on paypal phishing sites alone
+# Certificate trust
+- Until now: only direct trust (CA -> Certificate)
+- Problem: every CA must be known to the user
+- does not scale for large amount of certificates
+- solve: delegation
+- root CAs => issude certificates for intermediate CAs
+- intermediate CAs can issue certificates for other CAs or for end-entities
+- Users only need to know Root CAs
+- How??????
+	- CA0 -> CA1/2... | Ca0 signes intermediate CAs, who can then issue other certs
+	- How to check if its a trusted cert?
+		- Signature chain, you can see the chain of signing
+		- HARICA TLS ECC -> Geant -> uio.no
+		- badssl.com
+- Current PKI sys 
+	- scales well 
+	- users can choos from many intermediate CAs
+	- Problems:
+		- Trusted root store needed
+		- All certs from either CA are trusted
+			- a single rogue CA can endanger everything
+			- attackers can select the "weakest" CA for illegitimate certs
+- Compromised/sloppy CA
+	- Http public key pinning (HPKP) - can pin cas, so a change is noticed - dead - change
+	- DNS-based Auth of named entities (DANE) - 2nd one - dead
+	- DNS cert authority auth (CAA) - still exists but not used much
+	- ### **Certificate Transparancy (CT)**
+		- cannot provide security => provide transparancy
+			- Log files - public, append only
+				- all cets in the world
+				- can be audited by everyone
+				- admin can check what certs are issued
+				- can detect wrong certs
+				- CA has to send to log server to combine ssl cert w/SCT
+					- If not dont work
+				- CT enforced by all big browsers today
+				- logs reveal subdomains - good for hackers
+##### Good exam questions
+- 
