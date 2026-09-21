@@ -1,4 +1,4 @@
-* Kunnskapsresistens
+	* Kunnskapsresistens
 * Hva er kunnskap?
 * Wikforss' fallibilisme
 * Årsaken til kunnskapsresistens
@@ -34,7 +34,7 @@ Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 3 - Hva er VItenskap?]] · 
 			mye vi vet som ikke er vitenskapelig - kunnskap må dekke både vitenskap og hverdagskunnskap
 		Ulike former for kunnskap:
 			- Knoledge how / praktisk kunnskap (Knyttes til ferdigheter)
-			- Knowledge that / Teoretisk kunnskap (Påstandsform) feks hovedstat
+				- Knowledge that / Teoretisk kunnskap (Påstandsform) feks hovedstat
 			Hvordan beskrive praktisk kunnskap som teoretisk kunnskap????
 				noen mener at det ikke kan konverteres men blabla
 		Teoretisk kunnskap
