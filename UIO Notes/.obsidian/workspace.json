@@ -205,12 +205,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ExPhil/Exphil 11.md",
+                "file": "ExPhil/Exphil 11 - Evolusjonsteorien og menneskets plass i naturen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exphil 11"
+              "title": "Exphil 11 - Evolusjonsteorien og menneskets plass i naturen"
             }
           },
           {
@@ -407,10 +407,12 @@
       "vim-toggle:Toggle Vim Mode": false
     }
   },
-  "active": "33abe559964e792c",
+  "active": "b2ac4dd33537b95c",
   "lastOpenFiles": [
+    "ExPhil/Exphil Seminar 2.md",
+    "IN1020/IN1020 - Oblig 1 - Sikkerhet og Datanetverk i Praksis.md",
+    "ExPhil/Exphil 11 - Evolusjonsteorien og menneskets plass i naturen.md",
     "IN3210/NK Sikkerhet 4 - Key Management and Entity Authentication - Kerberos.md",
-    "ExPhil/Exphil 11.md",
     "IN3210/NK Sikkerhet 3 - Asymmertric Cryptography.md",
     "IN3210/NK Sikkerhet 2 - Symmetric Encryption - IN3210.md",
     "IN1020/IN1020 - Intro til Datakommunikasjon.md",
@@ -425,14 +427,12 @@
     "ExPhil/lu52269vvx.tmp",
     "ExPhil/exphil03-oblig1.odt",
     "ExPhil/lu52269vvu.tmp",
-    "IN1020/IN1020 - Oblig 1 - Sikkerhet og Datanetverk i Praksis.md",
     "IN1000/Oppgave 4 - Oblig 2.md",
     "IN1020/IN1020 - Innfri Sikkerhetsmål.md",
     "IN3210/NK Sikkerhet 5 - Public key Infrastructure.md",
     "IN1020/IN1020 - Lagdeling i Nettverk.md",
     "Oversikt.md",
     "ExPhil/Exphil 6 - Er følelser et hinder for kunnskap?.md",
-    "ExPhil/Exphil Seminar 2.md",
     "IN3210/IN3210 - Intro to Sec.md",
     "IN1000/Oppgave 3 - Oblig 2.md",
     "IN3210/Pasted image 20260825142928.png",
