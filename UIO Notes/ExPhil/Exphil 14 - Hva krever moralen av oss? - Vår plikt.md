@@ -31,6 +31,8 @@ Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 11 - Evolusjonsteorien og m
 				- Hvordan skal vi tale tilpassningen????
 	- Naturlovsformuleringen
 	- Humanitetsformuleringen
+		- Handle slik at du alltid bruker menneskehet både i din egen person og i enhver annens person samtidig som et formål og aldri bare som e middel
+		- midler er ok, bare ikke *bare* som middel
 	- Formålenes rike-formuleringen (ikke pensum)
 	- #### Eksempler på moralske lover:
 		- Du skal ikke lyve!
