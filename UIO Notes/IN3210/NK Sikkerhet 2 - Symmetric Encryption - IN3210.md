@@ -9,10 +9,10 @@ Plaintext P - Ciphertext C - cipher - Key K - encypher E - decipher D
 Main crypto cipher types
 	Symmetric
 		alice and bob hav the same key to communicate
-		one key, shared secret key
+		one key, [[NK Sikkerhet 4 - Key Management and Entity Authentication - Kerberos|shared secret key]]
 		stream
 		block
-	Asymmetric
+	[[NK Sikkerhet 3 - Asymmertric Cryptography#Asymmetric Encryption|Asymmetric]]
 		Two keys public private keys
 		alice bob have different keys
 ## Symmetric encryption
@@ -31,7 +31,7 @@ Main crypto cipher types
 	could be bruteforced but it still wouldnt give any info on which is the correct one
 	If the key is reused, the one time pad no longer provides perfect secrecy
 		could analyze
-	the one time pad does not provide integrity/authenticity
+	the one time pad does not provide [[NK Sikkerhet 3 - Asymmertric Cryptography#Digital Signature|integrity/authenticity]]
 		could manipulate the message by changing the most significant bit (first bit?)
 		No way to detect
 		**the general lesson: a cipher only provideing confidentiality does not provide integrity/authenticity!***
@@ -52,7 +52,7 @@ Main crypto cipher types
 ### RC4
 		No longer used
 		designed to be efficient to pmplement in softeware (counter traditional stream ciph HW)
-		widely used for ssl/tls wp/wpa
+		widely used for [[NK Sikkerhet 5 - Public key Infrastructure#HTTPS usage|ssl/tls]] wp/wpa
 		SHOULD NOT BE USED IN NEW SYSTEMS
 		reason to use is faster - easy to switch because software
 		not shuffled enough? like cads basically

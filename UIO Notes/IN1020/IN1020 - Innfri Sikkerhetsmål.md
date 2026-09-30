@@ -14,7 +14,7 @@ Se også: [[Oversikt|Oversikt]] · forrige: [[IN1020 - Lagdeling i Nettverk]] ·
 
 Andre mål:
 - Personvern
-- Uavviselighet (non-repudiation)
+- Uavviselighet ([[NK Sikkerhet 3 - Asymmertric Cryptography#Digital Signature|non-repudiation]])
 - Autentisitet
 - Sporbarhet
 
@@ -60,11 +60,11 @@ Bevismateriale — **vet / har / er**
 
 ## Autentisering av system/data
 - **Auth – Sys / Dat**
-- Sys → er dette **avsender ekte**? (autentisitet)
-- Løses med **kryptografi**
+- Sys → er dette **avsender ekte**? ([[NK Sikkerhet 5 - Public key Infrastructure#Certificates|autentisitet]])
+- Løses med **[[NK Sikkerhet 2 - Symmetric Encryption - IN3210|kryptografi]]**
 
 ## Tilgangskontroll
-- Autentisering + autorisasjon → gir tilgang
+- Autentisering + autorisasjon (eks. [[NK Sikkerhet 4 - Key Management and Entity Authentication - Kerberos|Kerberos]]) → gir tilgang
 - Fra **subjekt → objekt**
 - Styres av **policy**
 

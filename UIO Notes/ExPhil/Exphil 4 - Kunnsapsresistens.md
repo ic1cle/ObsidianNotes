@@ -29,7 +29,7 @@ Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 3 - Hva er VItenskap?]] · 
 			Hvis vi kan forstå grunnlaget til kunnskaps.res. kan vi gjøre noe med det
 				For å forstå grunnlaget må vi forstå kunnskap
 ## Hva er kunnskap
-		Epistemologi - læren om kunnskap
+		[[Exphil 6 - Er følelser et hinder for kunnskap?|Epistemologi]] - læren om kunnskap
 		Hva er kunnskap - bredere enn hva er vitenskap
 			mye vi vet som ikke er vitenskapelig - kunnskap må dekke både vitenskap og hverdagskunnskap
 		Ulike former for kunnskap:
@@ -40,7 +40,7 @@ Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 3 - Hva er VItenskap?]] · 
 		Teoretisk kunnskap
 			få tak i ved å google, lese, etc. (kan skrives i påstandsform)
 			Klassisk definisjon av kunnskap - fra platon
-				Kunnskap er en begrunnet sann oppfatning (justified true belief)
+				Kunnskap er en [[Exphil Seminar 2|begrunnet sann oppfatning]] (justified true belief)
 				Tre betingelser for kunnskap
 					1. Overbevisning (oppfatning)
 						Det psykologiske aspektet ved kunnskap
@@ -86,14 +86,14 @@ Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 3 - Hva er VItenskap?]] · 
 							kunnskapsresistens er evidensresistens - wikforss
 						*(P'ene vi snakker om er faktapåstander)*
 							fokuset i dag er objektiv kunnskap
-						I forsking består evidens av vitenskapelig metoder
+						I forsking består evidens av [[Exphil 3 - Hva er VItenskap?#Men hva er da Vitenskap|vitenskapelig metoder]]
 						Får hovedsakelig evidens direkte fra snaser eller indirekte fra andre mennesker
 							resonering observasjon vitnesbyrt (se tidligere foredrag 2)
 					om vi har alle tre betingelsene har vi kunnskap
 					Første psykologisk - andre hvordan verden er - tredje binder de to første sammen, grunnlaget som kobler
 					kaboom vennskapsdiagram
 				Hva telles som god evidens, og hvor mye er nok?
-					alltid mulig å betvile -- descarte
+					alltid mulig å betvile -- [[Exphil 3 - Hva er VItenskap?#Fakta og teorier|descarte]]
 						undergraver tvil evidens?
 					Infallibilisme og fallibilisme
 						uenig om løsning
@@ -141,7 +141,7 @@ Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 3 - Hva er VItenskap?]] · 
 			Kunnskapsresistens gjennomslag grunnet ny teknologi
 				kildekritikk?
 	Hvordan motarbeide kunnskapsresistens
-		1. Kritisk tenkning
+		1. [[Exphil Seminar 4 - Sosial konstruksjon#Tilbakeblikk|Kritisk tenkning]]
 			Forskjell mellom holdbarhet og gyldighet
 		2. Kunnskap om empiriske forhold
 			Gå ut i verden og observer relevante forhold - forskning

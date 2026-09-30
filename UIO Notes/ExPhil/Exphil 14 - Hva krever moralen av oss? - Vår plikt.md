@@ -1,0 +1,94 @@
+Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 11 - Evolusjonsteorien og menneskets plass i naturen]]
+
+# Kants moralfilosofi
+- mest sentrale
+	- Grunnlegging av moralens metafysikk (1785)
+		-  Moralen fortsatter å være utsatt for undergravning så lenge den mangler en rettesnor
+		- Bokens formål
+			- Finne moralens øverste prinsipp
+			- det kategoriske imperativ
+	- krittikk av den praktiske fornuft (1788)
+	- Moralens metafysikk (1798)
+- ### Autonomi  (selvlovgivning) - *(moderne:selvbestemmelse)*
+	- Mennesker er moralsk lovgiver -> kategoriske imperativ
+	- Borgerne gir lovene vi selv er underlagt - demokrati/republikken
+	- strid med heteronomi -> fremmedlovgivning
+		- gud er moralsk lovgiver
+			- kant er imot, men forsvarer religion
+		- annen form -> lykken er moralsk normkilde (kant imot)
+- ### Tre analogier til det kategoriske imperativ
+	- *nærmere det anskuelige*
+		- nærmere [[Exphil 6 - Er følelser et hinder for kunnskap?|følelsene]] - viktig for kant
+	- Moralsk bedømmelse - kategorisk imperativ
+		- noe med person
+	- #### Undergravningen av moralen
+		- to ulike typer fordringer
+			- Moralske lover: forskriver som fornuften fremsetter "Urokkelig"
+			- Vår naturlige streb for lykke: fullstendige tilfredsstillelsen av dets behov
+				- klarer ikke bringe til taushet
+			- clash mellom de to
+				- fremsetter spissfinfige arg mot plikts strenge lover (tilpasser moralen)
+				- Hvordan skal vi tale tilpassningen????
+	- Naturlovsformuleringen
+	- Humanitetsformuleringen
+	- Formålenes rike-formuleringen (ikke pensum)
+	- #### Eksempler på moralske lover:
+		- Du skal ikke lyve!
+		- Du skal fremme andres lykke!
+	- Disse lover er noe som er nødvendig for alle fornuftige vesen
+		- enhver må inrømme at en moralsk lov må medføre absolutt nødvendighet
+			- gjelder for alle
+			- bare derfor det gjelder for mennesket
+- ## Kants fire eksempler på naturlig dieletikk
+	- "Du skal ikke myrde!"
+		- Om livet blir kjipt -> selvmord
+		- personen har bevisthet om at noe er galt
+		- gjelder loven bare for andre?
+		- når man er i en slik situasjon => lov ikke gjelder lengre?
+			- fusking med moralen
+	- "Du sakl ikke avgi et falsk løfte!"
+		- Aktør tenker moralsk lov ikke gjelder når man er i et knipetak
+		- feks. lån
+	- "DU skal utvide dine naturanlegg (evner)!"
+		- Person som ikke utvikler evner -> umoralsk (kant)
+		- Aktør tenker det ikke gjelder om man finner seg i *behagelige forhold*
+	- "Du skal fremme andres lykke!" (jf. [[Exphil 11 - Evolusjonsteorien og menneskets plass i naturen|altruismeproblemet]])
+		- Aktør tenker han ikke bryter noe moral ved å ikke hjelpe andre - egne penger feks
+- ## Kants diagnose
+	- Hvis vi legger merke til hva vi tenker når vi overtrer en plikt
+		- Vi godtar loven men gir et unntak for oss selv til fordel for våre tilbøyeligheter
+		- Omgjør almenhet til generell gyldighet - møte halvveis?
+	- Roten til pliktbrudd
+		- all umoral springer fra en umoral som er veldig uskyldig
+			- galt motiv for å følge moralske lover
+				- feks følge noe for å unngå ubehag (tatt i en løgn)
+		- du må handle pga. selve loven 
+			- Hvorfor det faktisk er galt
+	- Plikt som motiv
+		- handle ikke bare i overenstemmelse med plikten
+		- men AV PLIKT
+	- Legalitet og moralitet
+		- overenstemmelse : legalitet
+		- av plikt : moralitet
+#### Maksime?
+- Maksime er viljesaktens subjektive prinsipp
+- subjektive handligsprinsippe =/ objektive prinsioo
+	- grunnsetning - subjektet handler
+- Egne tolkninger vi gir av de moralske lovene?
+## Den gode vilke
+- Umulig å tenke seg noe i verden som uten innskernkning kan anses som godt, annet en god vilje
+- god vilje => perfekt fornuft
+- Den gode vilje må *innskrenke* vår vilje med hensyn på bruken
+- Uten god vilje blir:
+	- Naturens gaver, sinnets talenter, egenskaper ved temperament 
+		- => ytterst onde og skadelige
+	- Lykkens gaver 
+		- => gjør oss overmodige og uverdige lykken
+		- for å være verdige lykken må vi være moralske
+	- Klassiske dyder
+		- => høyst onde
+		- Den gode vilje er en nødvendig betingelse for at disse godene er moralsk gode
+	- Disse tre er bare gode om de kommer fra *den gode vilje*
+		- uninskrenket god
+		- Den gode vilje er ikke god på grunn av sine virkninger -> men utelukkende i kraft av viljesakten
+		- 

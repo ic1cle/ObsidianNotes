@@ -1,6 +1,6 @@
 # Hva kjennetegner Kunnskap
-* Begrunnet, sann oppfatning
-Se også: [[Oversikt|Oversikt]] · neste: [[Exphil 3 - Hva er VItenskap?]]
+* [[Exphil 4 - Kunnsapsresistens#Hva er kunnskap|Begrunnet, sann oppfatning]]
+Se også: [[Oversikt|Oversikt]] · neste: [[Exphil 3 - Hva er VItenskap?]] · neste seminar: [[Exphil Seminar 4 - Sosial konstruksjon]]
 #### Karakterer forskningsomeråder:
 1. Fysikk 6/10
 2. Biologi 8/10
@@ -16,14 +16,14 @@ Se også: [[Exphil 3 - Hva er VItenskap?#Lakatos]] — samme stoff utdypet i for
 	* avvise andre sy og legger ut sitt egne ved eksempler fra vitenskapens historie
 # tekst
 * Kan ikke regne alt som kunnskap - demoner etc
-* må spore innhold tilbake til hvorfor - Hume
+* må spore innhold tilbake til hvorfor - [[Exphil 3 - Hva er VItenskap?#Fakta og teorier|Hume]]
 * Teori er vitenskapelig om det er sikre beviser
 * noen av de beste teorier går utenfor hva vi kan observere
-* uenig med popper -> de beste teoriene følger ikke det strenge falsifiserbarhetskriteriet
-* et forskningsprogram kjennertegner vitenskapelig prestasjon?
+* uenig med [[Exphil 3 - Hva er VItenskap?#Karl Popper|popper]] -> de beste teoriene følger ikke det strenge [[Exphil 3 - Hva er VItenskap?#Falsifiseringsprinsippet|falsifiserbarhetskriteriet]]
+* et [[Exphil 3 - Hva er VItenskap?#Forskningsprogrammer|forskningsprogram]] kjennertegner vitenskapelig prestasjon?
 * "beskyttelsesbelte" støttehypoteser
 ### Vurdering?
-i - støtter lakatos sitt mer fallibilistiske utgangspunkt, og at fremgangsmåten til forskning er viktigere enn strenge bevis
+i - støtter lakatos sitt mer [[Exphil 4 - Kunnsapsresistens#Infallibilisme og fallibilisme|fallibilistiske]] utgangspunkt, og at fremgangsmåten til forskning er viktigere enn strenge bevis
 ii - usikker på hvorvidt det er nok å genneralisere forskning inn i to "båser"
 ###### Formidler sannheten med et godt grunnlag, og er bygget opp av en sterk fremgangsmåte
 ---

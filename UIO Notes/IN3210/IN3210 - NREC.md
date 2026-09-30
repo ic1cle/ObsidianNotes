@@ -1,3 +1,5 @@
+Se også: [[Oversikt|Oversikt]] · emne: [[IN3210 - Intro to Sec]]
+
 ## Sigurd Strand Osen
 
 NREC prepared with FEIDE

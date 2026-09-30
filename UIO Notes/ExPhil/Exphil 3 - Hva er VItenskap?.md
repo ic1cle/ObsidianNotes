@@ -33,7 +33,7 @@ Viktig å kunne skille mellom vitenskap og pseudovitenskap?
 		vilke toerier burde vi tro på?
 	Etiske og politiske grunner
 		Hvem er ekspertene som samfunnet kan stole på
-		Hva gjør vi når folk nekter å tro på det ekspertene sier?
+		Hva gjør vi når folk [[Exphil 4 - Kunnsapsresistens#Kunnskapsresistens|nekter å tro på det ekspertene sier]]?
 		Å kalle noe for "pseudo-vitenskap" kan være maktmisbruk
 
 Kriterium -> demarkasjonskriterium
@@ -65,7 +65,7 @@ Kriterium -> demarkasjonskriterium
 			Man kan aldri være sikker på den neste data man innhenter vil støtte konklusjonen
 			Lakos sier at *"Alle vitenskapelige teorier er like **umulig** å bevise" (s67)*
 		standarden for vitenskap bør ikke være for høy
-			Descartes' kriterium *"hinsides all tvil"* er for strengt og "utopsik"
+			[[Exphil 4 - Kunnsapsresistens#Infallibilisme og fallibilisme|Descartes' kriterium]] *"hinsides all tvil"* er for strengt og "utopsik"
 			Empirisk vitenskap kan ikke være like sikker som matematikk eller like nødvendig som deduktiv argumentasjon
 
 ## Probabilisme
@@ -158,7 +158,7 @@ Kuhn mot popper
 		Komplekse rammeverk som rettleder vitenskapelg spørsmål, eksperimenter og tolkning av data
 		Historiske enheter som eksisterer i en periode endrer seg over tid, løser problemer og takler anomalier
 			- Newtons mekanikk
-			- evolusjonsteorien
+			- [[Exphil 11 - Evolusjonsteorien og menneskets plass i naturen|evolusjonsteorien]]
 			- mikrobeteorien om sykdom
 		Forskningsprogrammer vs. paradigmer
 			Inkluderer flere beslektede teorier men er mindre enn paradigme

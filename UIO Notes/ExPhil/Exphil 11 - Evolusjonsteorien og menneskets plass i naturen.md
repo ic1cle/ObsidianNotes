@@ -1,3 +1,5 @@
+Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 6 - Er følelser et hinder for kunnskap?]] · neste: [[Exphil 14 - Hva krever moralen av oss? - Vår plikt]]
+
 - Tekst -> Det Egoistiske Genet - Dawkins
 - Hvordan teorien påvirker vår virkelighetsoppfatning?
 - er vi "overlevelsesmaskiner" skapt av genene våre?
@@ -29,7 +31,7 @@
 			- hvorfor ikke unngå å bli spist under paring?
 	- altruisme - viktigst for darwin
 		- atferd hos individ som *minsker* egne reproduksjonsmuligheter, men øker mulig hos andre individer
-		- altruisme vs egoisme
+		- altruisme vs egoisme (jf. Kants plikt: [[Exphil 14 - Hva krever moralen av oss? - Vår plikt|"Du skal fremme andres lykke!"]])
 		- ### Problemet med altruisme
 		- hvis naturlig utvalg sorterer på bakgrunn av individe -> egoisme trumfer
 			- hvorfor finnes altruisme da?
@@ -65,3 +67,6 @@
 - Gener -> **generelle føringer**
 - overlevelsesmaskinen er den **utøvende beslutningstakeren**
 - Autonome overlevelsesmaskiner - sosial læring og kulturarv
+
+---
+**Se også:** [[Exphil 14 - Hva krever moralen av oss? - Vår plikt]] (moral og plikt – Kant) · [[Oversikt|Oversikt]]

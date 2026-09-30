@@ -12,16 +12,16 @@ Fullstendige notater: [[NK Sikkerhet 2 - Symmetric Encryption - IN3210]]
 				eve cannot derive a and b
 				Weakness
 					mallory can intercept keys, and giving make keys back
-					man in the middle attack
+					[[NK Sikkerhet 5 - Public key Infrastructure#Attack on Key exchange (DIgital Signature)|man in the middle attack]]
 	Problem of symmetric encryption
-		sharedd secret must be distributed
+		sharedd secret must be [[NK Sikkerhet 4 - Key Management and Entity Authentication - Kerberos|distributed]]
 	Problem of DH key exchange
 		interactive protocol
 		both parties must be "online" to start encrypt com
 ## Asymmetric Encryption
 	one key for enc, one key for decryp
 	RSA (1978) (recipient generates key)
-	Confidentiality not required -> passive attacker can read the public key no problem
+	Confidentiality not required -> passive attacker can read the [[NK Sikkerhet 5 - Public key Infrastructure#Certificates|public key]] no problem
 ## Hash Functions
 	checking fingerprint sim?
 	hash collision

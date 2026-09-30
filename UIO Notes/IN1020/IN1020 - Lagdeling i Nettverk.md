@@ -4,8 +4,8 @@ Se også: [[Oversikt|Oversikt]] · forrige: [[IN1020 - Intro til Datakommunikasj
 
 * Nettverkskomponenter - endepunkt = datamaskin/klient - tjenere, servere...
 * Noder er fellesbetegnelse på alt, endepunkt, tjenere, intermediate systemer
-* Punkt til punkt, kabel fra a -> b -- Stjerne topologi er vanligst, neste tre som flere ruter
-* Broadcast nettverk, wifi, en sender mange lytter - delt kom, kanal
+* Punkt til punkt, kabel fra a -> b -- [[IN1020 - Intro til Datakommunikasjon#Punkt-til-punkt og Broadcast - Nettverkstopologier|Stjerne topologi]] er vanligst, neste tre som flere ruter
+* [[IN1020 - Intro til Datakommunikasjon#Broadcast Nettverk|Broadcast nettverk]], wifi, en sender mange lytter - delt kom, kanal
 # Lagdeling
 * Protokoll definerer strukturen på beskjeder sendt over et nettverk
 * Må adressere mange komleksiteter
@@ -58,7 +58,7 @@ Se også: [[Oversikt|Oversikt]] · forrige: [[IN1020 - Intro til Datakommunikasj
 		* QUIC
 			* Forenklet transportprotokoll fot HTTP, designa av google
 			* Bruker UDP som transport, men legger til enkel funksjonalitet fra tcp
-			* Lrever kryptering (transport layer Security)
+			* Lrever kryptering ([[NK Sikkerhet 5 - Public key Infrastructure#HTTPS usage|transport layer Security]])
 		* pruker port som unik indikator
 	* Lag 3 Nettverkslaget
 		* Koble sammen systemene ende til ende
@@ -69,7 +69,7 @@ Se også: [[Oversikt|Oversikt]] · forrige: [[IN1020 - Intro til Datakommunikasj
 		* en ruter jobbedr på lag 3
 		* eks.
 			* IP (Tilkoblingsløst)
-		* IPv4 bruker 32-bit adresse 4.3 * 10⁹
+		* [[IN1020 - Oblig 1 - Sikkerhet og Datanetverk i Praksis#Oppgave 6|IPv4]] bruker 32-bit adresse 4.3 * 10⁹
 		* Den nye versjonen IPv6 jar 128-bit adresser 3.4 ^
 	* Lag 2 Linklaget
 	* Lag 1 Fysiske laget

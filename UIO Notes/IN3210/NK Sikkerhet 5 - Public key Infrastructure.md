@@ -1,3 +1,5 @@
+Se også: [[Oversikt|Oversikt]] · forrige: [[NK Sikkerhet 4 - Key Management and Entity Authentication - Kerberos]] · brukt i: [[IN1020 - Oblig 1 - Sikkerhet og Datanetverk i Praksis]]
+
 # HTTPS usage
 - exploded last ten years
 - uses PKI
@@ -5,11 +7,11 @@
 - HTTP over TLS => HTTPS
 ### Attack on Key exchange (DIgital Signature)
 - Confidentiality not required
-- Integrity/Authenticity highly required
+- [[IN3210 - Intro to Sec#Axioms of CS (Computer Security)|Integrity/Authenticity]] highly required
 - attacker could possibly modify key
 # Certificates
 - CA - Certificate Authority
-- "Signes" the public key
+- [[NK Sikkerhet 3 - Asymmertric Cryptography#Digital Signature|"Signes"]] the [[NK Sikkerhet 3 - Asymmertric Cryptography#Asymmetric Encryption|public key]]
 - Alice can now give bob the key with the signature to ensure the key cant be modified
 	- changing a single bit would invalidate CA cert
 - Bob has to verify the signature -> needs a public key from the CA
@@ -31,7 +33,7 @@
 - Alice Cert. req. -> Registration (CA) -> certification -> Alice
 - Bob TLS connect to server -> bob gets signature -> verified
 	- make sure cert. is not revoked
-	- if private key is stolen cert is compromised
+	- if [[NK Sikkerhet 4 - Key Management and Entity Authentication - Kerberos|private key is stolen]] cert is compromised
 	- Cert must be revoked - contact CA and requesst revoke
 	- how does bob know? bob requests validation from CA
 	- modern certs dont do the revocation anymore?
@@ -93,6 +95,6 @@
 				- CA has to send to log server to combine ssl cert w/SCT
 					- If not dont work
 				- CT enforced by all big browsers today
-				- logs reveal subdomains - good for hackers
+				- logs reveal subdomains - good for hackers ([[IN5290 - Intro to Ethical Hacking, Info Gathering|info gathering]])
 ##### Good exam questions
 - 

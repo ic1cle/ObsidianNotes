@@ -6,6 +6,6 @@ programsetning - en linje
 uttrukk - noe som kan evalueres (eks (2+3)) - beregnes tik en verdi
 Literal - en verdi/tall/tekst som vi har lagt inn - datatype (tall)
 operator - feks pluss tall
-funksjon/biblioteks-funksjon
+funksjon/biblioteks-funksjon (se [[Oppgave 3 - Oblig 2|def print_prosa()]])
 **datatyper** 
 	tekst, heltall, flyttall

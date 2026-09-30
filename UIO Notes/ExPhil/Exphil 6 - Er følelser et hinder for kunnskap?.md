@@ -2,7 +2,7 @@
 [3]Hva er emosjoner?           [4]Myten om nøytral Forskning
 [5]Fredløse emosjoner         [5]Emosjoners epistemiske potensial
 
-Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 4 - Kunnsapsresistens]]
+Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 4 - Kunnsapsresistens]] · neste: [[Exphil 11 - Evolusjonsteorien og menneskets plass i naturen]]
 
 # [1]Hva er feministisk epistemologi?
 - Elizabeth Anerson:
@@ -23,7 +23,7 @@ Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 4 - Kunnsapsresistens]]
 		- Det mentale (gjrør oss gudommelig???)
 		- Det kulturelle
 		- Det universelle (oppdage morale prinsipper, og lage universiellle lover)
-		- Det offentlige (bruke offentlig fornuft - Kant)
+		- Det offentlige (bruke offentlig fornuft - [[Exphil 14 - Hva krever moralen av oss? - Vår plikt|Kant]])
 		- Det mannlige
 	- Emosjoner: (subjektivt)
 		- Det irrasjonelle
@@ -55,8 +55,8 @@ Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 4 - Kunnsapsresistens]]
 	- De er aktive
 		- Vi kan føle oss passiv i møte med emosjoner
 		- kan vi altid sloss emosjoner?
-	- De er sosiale konstruksjoner
-		- Kan vi forklare emosjoner med biologi
+	- De er [[Exphil Seminar 4 - Sosial konstruksjon#Sosial konstruksjon|sosiale konstruksjoner]]
+		- Kan vi forklare emosjoner med [[Exphil 11 - Evolusjonsteorien og menneskets plass i naturen|biologi]]
 		- Jagger sier de er ofte sosiale konstruksjoner
 - Emosjoner er følelser
 	- Inkluderer fysiologiske reaksoner - opplever emosjon -> gråter
@@ -149,7 +149,7 @@ Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 4 - Kunnsapsresistens]]
 	- Trengte fredløse emosjoner for å avdekke dette
 - Fredløse emosjoner og kritisk forskning
 	- Kan motivere til nye undersøkelse og styre valg av vitenskapelige problemstillinger
-	- Kan lede til "revolusjonære observasjoner" (s147)
+	- Kan lede til "[[Exphil 3 - Hva er VItenskap?#Vitenskapelig paradigme|revolusjonære observasjoner]]" (s147)
 - Innvendinger:
 	- Hvilke fredløse emosjoner bør omfavnes og hvilke bør avvises?
 	- Noen emosjoner er mer passende?

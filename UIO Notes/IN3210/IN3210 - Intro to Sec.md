@@ -24,8 +24,8 @@ Se også: [[Oversikt|Oversikt]] · neste: [[NK Sikkerhet 2 - Symmetric Encryptio
 
 ### Further goals
 - Authenticity
-- Non-repudiation
-- Privacy
+- [[NK Sikkerhet 3 - Asymmertric Cryptography#Digital Signature|Non-repudiation]]
+- [[IN1020 - Innfri Sikkerhetsmål#Personopplysningsvern -- Lov|Privacy]]
 
 ## Cast of characters
 **Good:**
@@ -34,7 +34,7 @@ Se også: [[Oversikt|Oversikt]] · neste: [[NK Sikkerhet 2 - Symmetric Encryptio
 
 **Bad:**
 - Eve (passive)
-- Mallory (active)
+- Mallory (active) — [[NK Sikkerhet 3 - Asymmertric Cryptography#Symmetric Encryption (recap)|man in the middle]]
 
 ## Motivation
 - Financials
@@ -51,7 +51,7 @@ Targets: Service, Communication, Data
 
 ### Passive vs. Active attacks
 - **Passive** – sniffing
-- **Active** – packet drop/modify, inject, replay
+- **Active** – packet drop/modify, inject, [[NK Sikkerhet 4 - Key Management and Entity Authentication - Kerberos|replay]]
 
 **Adversary**: wiretap attacks
 
@@ -59,7 +59,7 @@ Targets: Service, Communication, Data
 > Bygger på [[IN1020 - Intro til Datakommunikasjon]] (pakkenettverk, topologier, OSI/TCP-IP)
 
 - **Broadcast domain**
-- **ARP** (Address Resolution Protocol): maps MAC to IP
+- **ARP** (Address Resolution Protocol): maps MAC to [[IN1020 - Lagdeling i Nettverk|IP]]
 
 > Auth ≠ Availability
 

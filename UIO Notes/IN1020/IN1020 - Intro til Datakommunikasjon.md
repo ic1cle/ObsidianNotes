@@ -49,10 +49,10 @@ Se også: [[Oversikt|Oversikt]] · neste: [[IN1020 - Lagdeling i Nettverk]]
 	- Hvordan finne veien tilbake?
 	- Felles språk?
 	- Håndtere problemer
-	- personvern og sikkerhet
-	- unngå forsinkelser - tilgjengelighet ;)
+	- [[IN1020 - Innfri Sikkerhetsmål|personvern og sikkerhet]]
+	- unngå forsinkelser - [[IN1020 - Innfri Sikkerhetsmål#KIT|tilgjengelighet]] ;)
 - **Lagdelingsmodeller - OSI og TCP/IP**
 	- OSI-modellen
-	- TCP/IP-modellen
+	- [[IN1020 - Lagdeling i Nettverk#Protokoller og lag|TCP/IP-modellen]]
 
 > Bygges videre på i [[IN3210 - Intro to Sec#Networking basics|Networking basics (IN3210)]] — broadcast domain, ARP, ARP-spoofing
