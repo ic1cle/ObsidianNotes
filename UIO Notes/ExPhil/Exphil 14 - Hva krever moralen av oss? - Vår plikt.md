@@ -88,7 +88,62 @@ Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 11 - Evolusjonsteorien og m
 	- Klassiske dyder
 		- => høyst onde
 		- Den gode vilje er en nødvendig betingelse for at disse godene er moralsk gode
-	- Disse tre er bare gode om de kommer fra *den gode vilje*
-		- uninskrenket god
-		- Den gode vilje er ikke god på grunn av sine virkninger -> men utelukkende i kraft av viljesakten
-		- 
+- Disse tre er bare gode om de kommer fra *den gode vilje*
+	- uninskrenket god
+	- Den gode vilje er ikke god på grunn av sine virkninger -> men utelukkende i kraft av viljesakten
+	- måten vi vill på > konsekvenser
+	- gode intensjoner/ønsker =/ nok
+		- må gjøre alt som står i din makt for å gjennomføre
+	- Kanskje ideen om god vilje bare er fantaseri???
+		- utrolig vanskelig å gjennomføre
+	- Hva er naturens hensikt med å la vår vilje beherskes av fornuften?
+		- Naturens hensikt -> hensikt bak egenskapene våre
+			- som om naturen har inteligens?? (intelligent design teori)
+		- ### Det naturteologiske argument
+			- Ethvert organ må være tilpasset sitt naturformål (P1)
+			- Naturens hensikt med å gi oss vilje (p2)
+				- fornuft for lykke
+				- eller for moralen
+			- Naturens hensikt kan ikke være lykken (p3)
+				- et instinkt hadde vært mye bedre tilpasset
+			- Naturens hensikt => en god vilje (K)
+			- Normativ konklusjon
+				- Den gode vilje må være *det høyeste gode* siste endelige målet
+				- betingelsen for alt annet godt
+				- meningen med livet => bli moralske
+				- lykke er oppskrift for å bli lykkelige
+		- ### Det kategoriske imperativ er oppskriften på god vilje
+- #### Kants metode i andre kapittel
+	- legger i grunn begrepet om et fornuftsvesen
+	- fornuftvesen -> har vilje
+		- ha vilje => handle efter forestillingen om lover
+		- mennesker har evne til å frembringe handlinger fra forestillinger om lover
+			- må ha fornuft
+		- finne rbare slik evne hos fornuftige vesener
+			- dyr kan da ikke ha vilje
+				- styrt av impulser
+		- Kontrastbegreper om viljen
+			- Den guddommelige viljen
+				- fornuften bestemmer viljen
+			- Den menneskelige viljen
+				- fornuften i seg selv er ikke tilstrekkelig til å bestemme viljen
+				- må tvinge seg selv til å være fornuftig
+					- Hypotetiske imperativer
+						- fremstiller en handling som nødvendig,  et middel til å opnå noe
+						- (Kan frita deg selv ved å gi opp formålet)
+					- Kategoriske imperativer
+						- fremstiller en handling som god i seg selv -> ubetinget må gjøre
+						- (Kan ikke frita deg selv) => moralske imperativer
+						- Vanlige moralske lover -> kan ikke frita => kategoriske
+						- Kant vil finne det alle slike kategoriske imperativer har *felles*
+	- **=> Det kategoriske imperativ**
+		- **Handle bare maksimen du vil skal bli allmenn lov**
+		- skal gjelde for alle fornuftige vesen ^
+		- vanskelig å anvende - abstrakt prinsipp
+		- analogi for universallovsformuleringen:
+			- kan forklares ved naturlovsformuleringen
+				- maksime skal bli almen naturlov?
+				- Buker naturlover som analogi for praktiske lover
+				- (naturen som form = tings natur | aristoteles form)
+				- kan min maksime være en del av designet til mennesket
+				- 
