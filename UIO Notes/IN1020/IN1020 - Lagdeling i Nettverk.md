@@ -1,4 +1,4 @@
-# Kort repitisjon -
+	# Kort repitisjon -
 
 Se også: [[Oversikt|Oversikt]] · forrige: [[IN1020 - Intro til Datakommunikasjon]] · neste: [[IN1020 - Innfri Sikkerhetsmål]]
 

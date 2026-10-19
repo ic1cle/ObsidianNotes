@@ -3,7 +3,7 @@
 * Wikforss' fallibilisme
 * Årsaken til kunnskapsresistens
 
-Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 3 - Hva er VItenskap?]] · neste: [[Exphil 6 - Er følelser et hinder for kunnskap?]]
+Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 3 - Hva er VItenskap?]] · neste: [[Exphil 6 - Er følelser et hinder for kunnskap?]] · oblig: [[exphil03-oblig1.pdf|Oblig 1 – Evidens i samfunnet]]
 ## Kunnskapsresistens
 	elementene som forårsaker kunnskapsresistens -> ikke nytt
 	pseudovitenskapelig praksis? [[Exphil 3 - Hva er VItenskap?]]
@@ -21,7 +21,7 @@ Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 3 - Hva er VItenskap?]] · 
 			feks. umulig å vite hvor mange stjerner finnes
 			trivielle, feks hva du spiste for 10 år siden til frokost....
 	Hvorfor er kskapres. viktig
-		utfordrer demokratiet og samfunnet
+		utfordrer [[exphil03-oblig1.pdf|demokratiet og samfunnet]]
 			om vi ikke tar til oss relevant info - hvordan kan vi stoles på til å stemme....
 				dersom velgerne er kunnskapsresistente -> dårlig grunnlag for demokratiet.... [[Exphil 5]]
 			Kunnskapsresistens ufordrer vedien av utdanning

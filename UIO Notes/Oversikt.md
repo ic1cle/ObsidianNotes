@@ -10,11 +10,16 @@ Indeksnotat (MOC) for pensumnotatene. Se undermappene for hvert emne.
 - [[Exphil 11 - Evolusjonsteorien og menneskets plass i naturen]] — Dawkins: Det egoistiske genet, altruismeproblemet, replikatorer og overlevelsesmaskiner
 - [[Exphil Seminar 4 - Sosial konstruksjon]] — seminar: Haslanger om sosial konstruksjon, kjønn som kategori
 - [[Exphil 14 - Hva krever moralen av oss? - Vår plikt]] — Kants moralfilosofi: autonomi, det kategoriske imperativ, plikt, maksimer, den gode vilje
+- [[Exphil Seminar 5 - Livskvalitet]] — seminar: hva er et godt liv? tilfredsstillelse av mål, behov og verdier, mindset
+- [[Exphil 17 - Hvorfor trenger vi stat og myndigheter? Samfunnskontrakten]] — samfunnskontrakten: hvorfor trenger vi stat og myndigheter? (foreløpig nesten tom)
+- [[exphil03-oblig1.pdf|Oblig 1 – Evidens i samfunnet]] — innlevert oblig: Wikforss om kunnskapsresistens, fallibilisme, bekreftelsesbias og trussel mot demokratiet (se [[Exphil 4 - Kunnsapsresistens]])
+- [[exphil03-oblig2.pdf|Oblig 2 – Systematisk underordnede]] — innlevert oblig: Haslanger om kjønn som sosial konstruksjon, tre nivåer av konstruksjon (se [[Exphil Seminar 4 - Sosial konstruksjon]])
 
 ## IN1000
 - [[Presis forståelse 3 - IN1000]] — begreper: programsetning, uttrykk, literal, operator, funksjon, datatyper
 - [[Oppgave 3 - Oblig 2]] — kodeeksempel og kjørerekkefølge (Oblig 2)
 - [[Oppgave 4 - Oblig 2]] — analyse av samme program (Oblig 2)
+- [[IN1000 - Oblig 7]] — (tom stubb)
 
 ## IN1020
 - [[IN1020 - Intro til Datakommunikasjon]] — telefonnett vs. pakkenettverk, nettverkskomponenter, topologier (punkt-til-punkt/broadcast), OSI/TCP-IP-lagdeling
@@ -22,6 +27,7 @@ Indeksnotat (MOC) for pensumnotatene. Se undermappene for hvert emne.
 - [[IN1020 - Innfri Sikkerhetsmål]] — KIT (konfidensialitet/integritet/tilgjengelighet), GDPR art. 5, autentisering, tilgangskontroll, sporbarhet
 - [[IN1020 - Oblig 1 - Sikkerhet og Datanetverk i Praksis]] — obligatorisk oppgave (case: tannlegekontor): KIT i praksis, autentisering/PKI, IP-adressering og CIDR
 - [[IN1020 - Abstraksjonsnivå]] — (tom stubb)
+- [[IN1020 - Arkitektur og ALU]] — ISA vs. mikroarkitektur, opkode/adresse, registre vs. minne, MAR/MDR og bussene
 
 ## IN3210
 - [[IN3210 - Intro to Sec]] — sikkerhetsaksiomer (CIA), trusler, passive/aktive angrep, ARP-spoofing, DOS

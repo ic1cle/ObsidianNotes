@@ -1,4 +1,4 @@
-Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 11 - Evolusjonsteorien og menneskets plass i naturen]]
+Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 11 - Evolusjonsteorien og menneskets plass i naturen]] · neste: [[Exphil Seminar 5 - Livskvalitet]]
 
 # Kants moralfilosofi
 - mest sentrale
@@ -24,7 +24,7 @@ Se også: [[Oversikt|Oversikt]] · forrige: [[Exphil 11 - Evolusjonsteorien og m
 	- #### Undergravningen av moralen
 		- to ulike typer fordringer
 			- Moralske lover: forskriver som fornuften fremsetter "Urokkelig"
-			- Vår naturlige streb for lykke: fullstendige tilfredsstillelsen av dets behov
+			- Vår naturlige streb for lykke: fullstendige tilfredsstillelsen av dets behov (jf. [[Exphil Seminar 5 - Livskvalitet|livskvalitet]])
 				- klarer ikke bringe til taushet
 			- clash mellom de to
 				- fremsetter spissfinfige arg mot plikts strenge lover (tilpasser moralen)

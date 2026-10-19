@@ -1,4 +1,4 @@
-Se også: [[Oversikt|Oversikt]] · forrige seminar: [[Exphil Seminar 2]] · relatert: [[Exphil 3 - Hva er VItenskap?]]
+Se også: [[Oversikt|Oversikt]] · forrige seminar: [[Exphil Seminar 2]] · relatert: [[Exphil 3 - Hva er VItenskap?]] · oblig: [[exphil03-oblig2.pdf|Oblig 2 – Systematisk underordnede]]
 
 # Tilbakeblikk
 - Et moderne perspektiv på [[Exphil 4 - Kunnsapsresistens#Tre typer evidensresistens|kritisk tenkning]] handler om å kritisk vurdere påstander i lys av oppfatninger og kilder vi kan stole på. Vitenskap er vår mest påøotelige kilde til kunnskap ([[Exphil 3 - Hva er VItenskap?]])
@@ -10,7 +10,7 @@ Se også: [[Oversikt|Oversikt]] · forrige seminar: [[Exphil Seminar 2]] · rela
 - Gjøres vi til kvinner eller menn av samfunnet?
 - Hva er relevant for å vurdere om noen er kvinne eller mann?
 ### Sally Haslanger om sosial konstruksjon
-- Kritisk teori: La oss ikke bare ta  alle de gjengse oppfatningene i samfunnet for gitt
+- [[exphil03-oblig2.pdf|Kritisk teori]]: La oss ikke bare ta  alle de gjengse oppfatningene i samfunnet for gitt
 - må forholde oss kritisk om ideende som samfunnet består av
 - "FInnes en rekke definisjoner for biologisk kjønn fra fysisk fakta, som er like gode"'
 - *[[Exphil 3 - Hva er VItenskap?#Vitenskapelig paradigme|konseptuelle rammeverk]]* -> sosial og historisk prosess
